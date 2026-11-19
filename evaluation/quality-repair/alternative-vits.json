@@ -1,0 +1,233 @@
+{
+  "results": [
+    {
+      "segment": "segment_001",
+      "text": "এই দেখ! গাছের নিচে একটা পুরোনো বাক্স! নিশ্চয়ই গুপ্তধন আছে!",
+      "provider": "vits",
+      "model": "EMTIAZZ/bangladeshi-bangla-tts-vits",
+      "revision": "6f4b22c88c2fcc74805aa54c5f2c5f612d463d08",
+      "voice": "default_bn",
+      "duration_seconds": 4.702766439909297,
+      "sha256": "2dae7bf5133d8c51cad8b368368fed783718ee9768645b6121fe46661ccb2e9e",
+      "audio": {
+        "version": 1,
+        "sample_rate": 22050,
+        "frames": 103696,
+        "duration_seconds": 4.702766439909297,
+        "peak": 0.999969482421875,
+        "clipped_samples": 1,
+        "full_scale_plateau_samples": 1,
+        "rms": 0.15706974011565766,
+        "dc_offset": 0.0002506469764232709,
+        "longest_silence_seconds": 0.6,
+        "silence_fraction": 0.1864406779661017,
+        "errors": [],
+        "warnings": [
+          "Isolated full-scale peak; normalization can cause this without clipping. Review the waveform and speech."
+        ],
+        "signal_valid": true,
+        "human_pronunciation_review": "required",
+        "asr_used": false
+      },
+      "runtime": {
+        "device": "cuda",
+        "fallback_reason": null,
+        "load_seconds": 36.0645,
+        "worker_peak_cuda_allocated_mb": 399.8
+      },
+      "reference_applied": false,
+      "character_voice_claim": false
+    },
+    {
+      "segment": "segment_002",
+      "text": "আরে দাঁড়া! আগে ভালো করে দেখি। সব অদ্ভুত জিনিস গুপ্তধন হয় না।",
+      "provider": "vits",
+      "model": "EMTIAZZ/bangladeshi-bangla-tts-vits",
+      "revision": "6f4b22c88c2fcc74805aa54c5f2c5f612d463d08",
+      "voice": "default_bn",
+      "duration_seconds": 6.3513832199546485,
+      "sha256": "dd19e991460d183e2c27372249d72de0d99ddcdeb262d553dfc153faa46eea0e",
+      "audio": {
+        "version": 1,
+        "sample_rate": 22050,
+        "frames": 140048,
+        "duration_seconds": 6.3513832199546485,
+        "peak": 0.999969482421875,
+        "clipped_samples": 1,
+        "full_scale_plateau_samples": 1,
+        "rms": 0.16890445636230725,
+        "dc_offset": 0.00048169193030302555,
+        "longest_silence_seconds": 0.48,
+        "silence_fraction": 0.1761006289308176,
+        "errors": [],
+        "warnings": [
+          "Isolated full-scale peak; normalization can cause this without clipping. Review the waveform and speech."
+        ],
+        "signal_valid": true,
+        "human_pronunciation_review": "required",
+        "asr_used": false
+      },
+      "runtime": {
+        "device": "cuda",
+        "fallback_reason": null,
+        "load_seconds": 36.0645,
+        "worker_peak_cuda_allocated_mb": 426.3
+      },
+      "reference_applied": false,
+      "character_voice_claim": false
+    },
+    {
+      "segment": "segment_003",
+      "text": "এখানে তিনটা রঙিন পাথর আর একটা ধাঁধা আছে!",
+      "provider": "vits",
+      "model": "EMTIAZZ/bangladeshi-bangla-tts-vits",
+      "revision": "6f4b22c88c2fcc74805aa54c5f2c5f612d463d08",
+      "voice": "default_bn",
+      "duration_seconds": 3.773968253968254,
+      "sha256": "17f96f5b237736304ff0ba6380a17cc7e90b913cba6b7430217b91ffb94d665f",
+      "audio": {
+        "version": 1,
+        "sample_rate": 22050,
+        "frames": 83216,
+        "duration_seconds": 3.773968253968254,
+        "peak": 0.99993896484375,
+        "clipped_samples": 0,
+        "full_scale_plateau_samples": 0,
+        "rms": 0.15317362677128682,
+        "dc_offset": 0.00032008654611474205,
+        "longest_silence_seconds": 0.46,
+        "silence_fraction": 0.19047619047619047,
+        "errors": [],
+        "warnings": [],
+        "signal_valid": true,
+        "human_pronunciation_review": "required",
+        "asr_used": false
+      },
+      "runtime": {
+        "device": "cuda",
+        "fallback_reason": null,
+        "load_seconds": 36.0645,
+        "worker_peak_cuda_allocated_mb": 426.3
+      },
+      "reference_applied": false,
+      "character_voice_claim": false
+    },
+    {
+      "segment": "segment_010",
+      "text": "পেয়েছি! তোয়ালে! তোয়ালে দিয়ে শরীর শুকালে তোয়ালেটাই ভিজে যায়!",
+      "provider": "vits",
+      "model": "EMTIAZZ/bangladeshi-bangla-tts-vits",
+      "revision": "6f4b22c88c2fcc74805aa54c5f2c5f612d463d08",
+      "voice": "default_bn",
+      "duration_seconds": 4.6447165532879815,
+      "sha256": "ee68c5987fd84d54cca432c295fd1d1fd7dec7657a69f5ec87bc438e884bc7a9",
+      "audio": {
+        "version": 1,
+        "sample_rate": 22050,
+        "frames": 102416,
+        "duration_seconds": 4.6447165532879815,
+        "peak": 0.999969482421875,
+        "clipped_samples": 1,
+        "full_scale_plateau_samples": 1,
+        "rms": 0.1901096338424506,
+        "dc_offset": 0.00035556780697870694,
+        "longest_silence_seconds": 0.48,
+        "silence_fraction": 0.15450643776824036,
+        "errors": [],
+        "warnings": [
+          "Isolated full-scale peak; normalization can cause this without clipping. Review the waveform and speech."
+        ],
+        "signal_valid": true,
+        "human_pronunciation_review": "required",
+        "asr_used": false
+      },
+      "runtime": {
+        "device": "cuda",
+        "fallback_reason": null,
+        "load_seconds": 36.0645,
+        "worker_peak_cuda_allocated_mb": 426.3
+      },
+      "reference_applied": false,
+      "character_voice_claim": false
+    },
+    {
+      "segment": "segment_017",
+      "text": "রাজামশাই! আগে ধাঁধার উত্তর দিতে শেখো!",
+      "provider": "vits",
+      "model": "EMTIAZZ/bangladeshi-bangla-tts-vits",
+      "revision": "6f4b22c88c2fcc74805aa54c5f2c5f612d463d08",
+      "voice": "default_bn",
+      "duration_seconds": 3.820408163265306,
+      "sha256": "ff44028518a4f65ec3402bac9f8ed2699cfb08949e095896068607390d4081ca",
+      "audio": {
+        "version": 1,
+        "sample_rate": 22050,
+        "frames": 84240,
+        "duration_seconds": 3.820408163265306,
+        "peak": 0.999969482421875,
+        "clipped_samples": 1,
+        "full_scale_plateau_samples": 1,
+        "rms": 0.13404127892757567,
+        "dc_offset": 0.00042994862381662513,
+        "longest_silence_seconds": 0.58,
+        "silence_fraction": 0.2552083333333333,
+        "errors": [],
+        "warnings": [
+          "Isolated full-scale peak; normalization can cause this without clipping. Review the waveform and speech."
+        ],
+        "signal_valid": true,
+        "human_pronunciation_review": "required",
+        "asr_used": false
+      },
+      "runtime": {
+        "device": "cuda",
+        "fallback_reason": null,
+        "load_seconds": 36.0645,
+        "worker_peak_cuda_allocated_mb": 426.3
+      },
+      "reference_applied": false,
+      "character_voice_claim": false
+    },
+    {
+      "segment": "pronunciation_words",
+      "text": "নাবিল, রায়ান আর অনিকা, তোমরা কোথায় যাচ্ছ? একটু দাঁড়াও! আমরা একসঙ্গে প্রশ্নের উত্তর খুঁজব। বন্ধুত্ব, শ্রদ্ধা আর দায়িত্বের কথা মনে রেখো।",
+      "provider": "vits",
+      "model": "EMTIAZZ/bangladeshi-bangla-tts-vits",
+      "revision": "6f4b22c88c2fcc74805aa54c5f2c5f612d463d08",
+      "voice": "default_bn",
+      "duration_seconds": 10.75156462585034,
+      "sha256": "2bb811279c820584808733aed81b3e533d9a3cd93d370b18f9ec90d6853908be",
+      "audio": {
+        "version": 1,
+        "sample_rate": 22050,
+        "frames": 237072,
+        "duration_seconds": 10.75156462585034,
+        "peak": 0.999969482421875,
+        "clipped_samples": 1,
+        "full_scale_plateau_samples": 1,
+        "rms": 0.1659446878265158,
+        "dc_offset": 0.0004573230391983369,
+        "longest_silence_seconds": 0.48,
+        "silence_fraction": 0.12825278810408922,
+        "errors": [],
+        "warnings": [
+          "Isolated full-scale peak; normalization can cause this without clipping. Review the waveform and speech."
+        ],
+        "signal_valid": true,
+        "human_pronunciation_review": "required",
+        "asr_used": false
+      },
+      "runtime": {
+        "device": "cuda",
+        "fallback_reason": null,
+        "load_seconds": 36.0645,
+        "worker_peak_cuda_allocated_mb": 503.3
+      },
+      "reference_applied": false,
+      "character_voice_claim": false
+    }
+  ],
+  "purpose": "Explicit alternative Bengali model comparison after human rejection of Chatterbox speech. One shared VITS voice, no automatic fallback or assignment change.",
+  "human_listening_review": "pending",
+  "commercial_permission_verified": false
+}

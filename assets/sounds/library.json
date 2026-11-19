@@ -1,0 +1,124 @@
+{
+  "license": "CC0-1.0",
+  "sounds": {
+    "footstep": {
+      "file": "footstep.wav",
+      "description": "Short soft ground contact",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "3854dda2c78f9f399b4d101f6a0d8113c176d8e38c439991badb68bef8f3ef10"
+    },
+    "rustling_leaves": {
+      "file": "rustling_leaves.wav",
+      "description": "Original dry leaf rustle synthesis",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "f71ed122b62dcaab7ffe35600cf17836c2e6d612854e9d6ad534806157a01b22"
+    },
+    "wind": {
+      "file": "wind.wav",
+      "description": "Soft filtered wind bed",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "60c5e62c17bda43dba531f245ddb8a0e2804b0d444136465fbca181242491197"
+    },
+    "birds": {
+      "file": "birds.wav",
+      "description": "Stylized original bird calls",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "9d2ee748efa0f5eefe9da0f9c8e0ddd9a8c2fdbc76dbca35db2f1911bc671b2a"
+    },
+    "night": {
+      "file": "night.wav",
+      "description": "Soft synthetic cricket-like night bed",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "d20f1daf14abe18c9aedb682aa641931cadec85c9eee3bddaeccdc6eb94724d4"
+    },
+    "surprise": {
+      "file": "surprise.wav",
+      "description": "Brief original surprise accent",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "f6abb487959b4b18ce00178d3d9b26b614f84ad501ab1fe5d8a096a46631d687"
+    },
+    "music": {
+      "file": "music.wav",
+      "description": "Simple original four-note instrumental bed",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "a51bd8b4f6598cf379bc5cfd8cba605844cde53e99cd720ecaf4e03525b42113"
+    },
+    "music_happy": {
+      "file": "music_happy.wav",
+      "description": "Original happy instrumental theme; synthetic instruments",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "3078251b6d97741529a67d2ebf846a3a56500d9e1be087598366b66823c85f66"
+    },
+    "music_comedy": {
+      "file": "music_comedy.wav",
+      "description": "Original comedy instrumental theme; synthetic instruments",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "ac565f65b41b93a3abcc251d260c6a10092f8720c2936308cf41533101cd89ef"
+    },
+    "music_mystery": {
+      "file": "music_mystery.wav",
+      "description": "Original mystery instrumental theme; synthetic instruments",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "c892c2bf989c44889317aa292bf644d63fa2ea07964379f645a8a98ec41a7623"
+    },
+    "music_suspense": {
+      "file": "music_suspense.wav",
+      "description": "Original suspense instrumental theme; synthetic instruments",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "9aa9e771b4cf0ed25787a8971acbb387eeacfbcecc0c0f70e325a364325a1d5c"
+    },
+    "music_adventure": {
+      "file": "music_adventure.wav",
+      "description": "Original adventure instrumental theme; synthetic instruments",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "c7e367ec74a18a5b16bbc3c6b0e50f6d8fa8682e628b4ebbf1fe4da8e469099e"
+    },
+    "music_emotional": {
+      "file": "music_emotional.wav",
+      "description": "Original emotional instrumental theme; synthetic instruments",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "c3821c342959331dcb2c342a53b7cd862c780a8a97392af12e4347cd3c3a4824"
+    },
+    "music_calm": {
+      "file": "music_calm.wav",
+      "description": "Original calm instrumental theme; synthetic instruments",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "8c98f53187984bafac7f83bbb943c1fcf07d4de19f6dbbd073eadaf64e3132d7"
+    },
+    "music_dramatic": {
+      "file": "music_dramatic.wav",
+      "description": "Original dramatic instrumental theme; synthetic instruments",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "93de1068ae6cdf04305975e74efb335d91d960247a65ed4453e512da26d5d10a"
+    },
+    "water": {
+      "file": "water.wav",
+      "description": "Original stylized water movement bed",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "c756375d201faf3813c49efe0efe1a8b6e73bb307c04110f42d9400060b1a0cb"
+    },
+    "station_distant": {
+      "file": "station_distant.wav",
+      "description": "Original distant platform rumble; no sampled trains",
+      "license": "CC0-1.0",
+      "origin": "Original deterministic procedural synthesis; no sampled recordings",
+      "sha256": "7f9c6caf8d2c4c8963c9647633d71dccbcc6d602f709e4b433054c6406355bef"
+    }
+  }
+}

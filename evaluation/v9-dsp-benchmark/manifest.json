@@ -1,0 +1,166 @@
+{
+  "purpose": "DSP-only unconditioned evaluation; no approved Male/Female/Child base recordings supplied; not selectable production voices",
+  "human_listening_review": "pending",
+  "entries": [
+    {
+      "character_id": "nabil",
+      "text": "এই রায়ান! তুই কোথায় যাচ্ছিস? দাঁড়া, আমিও আসছি!",
+      "original": "nabil.original.wav",
+      "processed": "nabil.wav",
+      "report": {
+        "key": "35917b4d86687e12dc9fa994a3fdd302108234acf740c72a9c686f54a193ff8f",
+        "sha256": "1971998acd299e19ca45d6c43ec1ae54b01513436b9031b22497ecff43fd585d",
+        "source_sha256": "f3899bae094ea6eda7b0b00d66b91d5a792df70f7e3a36555588fd5b0ba06e3a",
+        "character_id": "nabil",
+        "preset": {
+          "category": "child_male",
+          "pitch_semitones": 0.7,
+          "formant": "preserved",
+          "experimental": true
+        },
+        "dsp": {
+          "algorithm": "ffmpeg-rubberband",
+          "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+          "formant_preserved": true,
+          "diagnostic": null
+        },
+        "transformation_applied": true,
+        "diagnostic": null,
+        "original": {
+          "frames": 87360,
+          "sample_rate": 24000,
+          "duration_seconds": 3.64,
+          "peak": 32445
+        },
+        "final": {
+          "frames": 87360,
+          "sample_rate": 24000,
+          "duration_seconds": 3.64,
+          "peak": 26894
+        },
+        "cache_hit": false,
+        "listening_review": "pending; pitch variation is not an independent human identity"
+      }
+    },
+    {
+      "character_id": "rayan",
+      "text": "এই রায়ান! তুই কোথায় যাচ্ছিস? দাঁড়া, আমিও আসছি!",
+      "original": "rayan.original.wav",
+      "processed": "rayan.wav",
+      "report": {
+        "key": "7021dbfcbad00ad02580b2b1ca21c9e546e7ab079ce12fb4012c6751ca53798b",
+        "sha256": "ce64819a54b6b0482d06460c3f2795ac291383a4cc07149d6910a030845af626",
+        "source_sha256": "f3899bae094ea6eda7b0b00d66b91d5a792df70f7e3a36555588fd5b0ba06e3a",
+        "character_id": "rayan",
+        "preset": {
+          "category": "child_male",
+          "pitch_semitones": -0.5,
+          "formant": "preserved",
+          "experimental": true
+        },
+        "dsp": {
+          "algorithm": "ffmpeg-rubberband",
+          "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+          "formant_preserved": true,
+          "diagnostic": null
+        },
+        "transformation_applied": true,
+        "diagnostic": null,
+        "original": {
+          "frames": 87360,
+          "sample_rate": 24000,
+          "duration_seconds": 3.64,
+          "peak": 32445
+        },
+        "final": {
+          "frames": 87360,
+          "sample_rate": 24000,
+          "duration_seconds": 3.64,
+          "peak": 31861
+        },
+        "cache_hit": false,
+        "listening_review": "pending; pitch variation is not an independent human identity"
+      }
+    },
+    {
+      "character_id": "fahim",
+      "text": "এই রায়ান! তুই কোথায় যাচ্ছিস? দাঁড়া, আমিও আসছি!",
+      "original": "fahim.original.wav",
+      "processed": "fahim.wav",
+      "report": {
+        "key": "17048144711dcfc5df1ae29e03796cf7d298e9adb93ca58d08d0e5e822adb4ba",
+        "sha256": "c4f1cd90cf287ccbe588fd6e574b5f2a3ecbb75f4b23b839a452c407198ce120",
+        "source_sha256": "f3899bae094ea6eda7b0b00d66b91d5a792df70f7e3a36555588fd5b0ba06e3a",
+        "character_id": "fahim",
+        "preset": {
+          "category": "child_male",
+          "pitch_semitones": 1.1,
+          "formant": "preserved",
+          "experimental": true
+        },
+        "dsp": {
+          "algorithm": "ffmpeg-rubberband",
+          "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+          "formant_preserved": true,
+          "diagnostic": null
+        },
+        "transformation_applied": true,
+        "diagnostic": null,
+        "original": {
+          "frames": 87360,
+          "sample_rate": 24000,
+          "duration_seconds": 3.64,
+          "peak": 32445
+        },
+        "final": {
+          "frames": 87360,
+          "sample_rate": 24000,
+          "duration_seconds": 3.64,
+          "peak": 22981
+        },
+        "cache_hit": false,
+        "listening_review": "pending; pitch variation is not an independent human identity"
+      }
+    },
+    {
+      "character_id": "anika",
+      "text": "পানি বাঁচানো আমাদের সবার দায়িত্ব। ছোট ছোট অভ্যাসই বড় পরিবর্তন আনে।",
+      "original": "anika.original.wav",
+      "processed": "anika.wav",
+      "report": {
+        "key": "6c956fe1f5cd87c3f14ee542a8bbf5ebd58ad15e1242e84a77d1776261234179",
+        "sha256": "cf51dbfdc0292ff41dd2c86be89c88087110d2b5667450b4e1a06447635c495b",
+        "source_sha256": "d2fbea56802551176e4b13463d8fd84b7e3b119e71fff9a7ac91b4f76bf97bbd",
+        "character_id": "anika",
+        "preset": {
+          "category": "child_female",
+          "pitch_semitones": 0.4,
+          "formant": "preserved",
+          "experimental": true
+        },
+        "dsp": {
+          "algorithm": "ffmpeg-rubberband",
+          "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+          "formant_preserved": true,
+          "diagnostic": null
+        },
+        "transformation_applied": true,
+        "diagnostic": null,
+        "original": {
+          "frames": 102720,
+          "sample_rate": 24000,
+          "duration_seconds": 4.28,
+          "peak": 31708
+        },
+        "final": {
+          "frames": 102720,
+          "sample_rate": 24000,
+          "duration_seconds": 4.28,
+          "peak": 29232
+        },
+        "cache_hit": false,
+        "listening_review": "pending; pitch variation is not an independent human identity"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "action": "afraid",
+  "version": "1.0.0",
+  "duration": 2.0,
+  "loop": true,
+  "keyframes": [
+    {
+      "t": 0,
+      "x": 0,
+      "y": 0,
+      "head_angle": 0
+    },
+    {
+      "t": 0.5,
+      "x": 0,
+      "y": -3,
+      "head_angle": 1.5
+    },
+    {
+      "t": 1,
+      "x": 0,
+      "y": 0,
+      "head_angle": 0
+    }
+  ]
+}

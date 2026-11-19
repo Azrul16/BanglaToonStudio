@@ -1,0 +1,158 @@
+{
+  "version": "1.0.0",
+  "speakers": {
+    "narrator": {
+      "name_bn": "বর্ণনাকারী",
+      "aliases": [
+        "Narrator",
+        "Narration",
+        "বর্ণনাকারী",
+        "কথক",
+        "বর্ণনা"
+      ],
+      "off_screen": true,
+      "voice_id": "default_bn"
+    },
+    "unknown_voice": {
+      "name_bn": "অচেনা কণ্ঠ",
+      "aliases": [
+        "অচেনা কণ্ঠ",
+        "অজানা কণ্ঠ",
+        "রহস্যময় কণ্ঠ",
+        "Unknown voice",
+        "Unknown",
+        "অফস্ক্রিন"
+      ],
+      "off_screen": true,
+      "voice_id": "default_bn"
+    },
+    "rahat": {
+      "name_bn": "রাহাত",
+      "aliases": [
+        "রাহাত",
+        "Rahat"
+      ],
+      "off_screen": false,
+      "voice_id": "default_bn"
+    },
+    "arif": {
+      "name_bn": "আরিফ",
+      "aliases": [
+        "আরিফ",
+        "Arif"
+      ],
+      "off_screen": false,
+      "voice_id": "default_bn"
+    },
+    "sami": {
+      "name_bn": "সামি",
+      "aliases": [
+        "সামি",
+        "Sami"
+      ],
+      "off_screen": false,
+      "voice_id": "default_bn"
+    },
+    "mehna": {
+      "name_bn": "মেহনা",
+      "aliases": [
+        "মেহনা",
+        "Mehna"
+      ],
+      "off_screen": false,
+      "voice_id": "default_bn"
+    },
+    "tithi": {
+      "name_bn": "তিথি",
+      "aliases": [
+        "তিথি",
+        "Tithi"
+      ],
+      "off_screen": false,
+      "voice_id": "default_bn"
+    },
+    "nabil": {
+      "name_bn": "নাবিল",
+      "aliases": [
+        "নাবিল",
+        "Nabil",
+        "child_nabil"
+      ],
+      "off_screen": false,
+      "voice_id": "default_bn",
+      "requires_complete_rig": true
+    },
+    "rayan": {
+      "name_bn": "রায়ান",
+      "aliases": [
+        "রায়ান",
+        "Rayan",
+        "child_rayan",
+        "রায়ান"
+      ],
+      "off_screen": false,
+      "voice_id": "default_bn",
+      "requires_complete_rig": true
+    },
+    "fahim": {
+      "name_bn": "ফাহিম",
+      "aliases": [
+        "ফাহিম",
+        "Fahim",
+        "child_fahim"
+      ],
+      "off_screen": false,
+      "voice_id": "default_bn",
+      "requires_complete_rig": true
+    },
+    "anika": {
+      "name_bn": "অনিকা",
+      "aliases": [
+        "অনিকা",
+        "Anika",
+        "child_anika"
+      ],
+      "off_screen": false,
+      "voice_id": "default_bn",
+      "requires_complete_rig": true
+    },
+    "maliha": {
+      "name_bn": "মালিহা",
+      "aliases": [
+        "মালিহা",
+        "Maliha",
+        "child_maliha"
+      ],
+      "off_screen": false,
+      "voice_id": "default_bn",
+      "requires_complete_rig": true
+    }
+  },
+  "locations": {
+    "railway_station_night": [
+      "রেলস্টেশন",
+      "রেলস্টেশনে",
+      "স্টেশন",
+      "স্টেশনে",
+      "প্ল্যাটফর্ম",
+      "railway station",
+      "train station",
+      "platform"
+    ]
+  },
+  "unsupported_locations": [
+    "জঙ্গল",
+    "বন",
+    "বনে",
+    "শ্রেণিকক্ষ",
+    "স্কুল",
+    "classroom",
+    "forest",
+    "beach",
+    "সমুদ্র",
+    "হাসপাতাল",
+    "hospital",
+    "রান্নাঘর",
+    "kitchen"
+  ]
+}

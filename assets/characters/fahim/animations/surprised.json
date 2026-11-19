@@ -1,0 +1,26 @@
+{
+  "action": "surprised",
+  "version": "1.1.0",
+  "duration": 2.0,
+  "loop": false,
+  "keyframes": [
+    {
+      "t": 0,
+      "x": 0,
+      "y": 0,
+      "head_angle": 0
+    },
+    {
+      "t": 0.3,
+      "x": 0,
+      "y": -6,
+      "head_angle": -5
+    },
+    {
+      "t": 1,
+      "x": 0,
+      "y": 0,
+      "head_angle": 0
+    }
+  ]
+}

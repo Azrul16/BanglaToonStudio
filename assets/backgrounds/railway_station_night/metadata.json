@@ -1,0 +1,34 @@
+{
+  "id": "railway_station_night",
+  "name_bn": "রাতের রেলস্টেশন",
+  "name_en": "Old Railway Station at Night",
+  "time_of_day": "night",
+  "keywords_bn": [
+    "রেলস্টেশন",
+    "স্টেশন",
+    "ট্রেন",
+    "রেললাইন"
+  ],
+  "width": 941,
+  "height": 1672,
+  "shorts_resolution": [
+    720,
+    1280
+  ],
+  "background_file": "background.png",
+  "shorts_file": "background_720x1280.png",
+  "characters_included": false,
+  "type": "static_2d_background",
+  "variant_source": null,
+  "layers": "flattened; not a parallax-ready multilayer scene",
+  "background_id": "railway_station_night",
+  "version": "1.0.0",
+  "canvas": [
+    941,
+    1672
+  ],
+  "layer_mode": "flat",
+  "file_hashes": {
+    "background.png": "2123d23c7f107e85177891cb429520cf2fe33347fadc9c6b766f3ed47fe25e7d"
+  }
+}

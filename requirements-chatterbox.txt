@@ -1,0 +1,13 @@
+# Isolated Python 3.11 runtime; do not install into the VITS application environment.
+# Torch/torchaudio must be a matching pair. This machine reuses existing 2.8.0+cu126 binaries.
+numpy==1.26.4
+librosa==0.11.0
+transformers==4.46.3
+huggingface-hub==0.25.2
+diffusers==0.29.0
+resemble-perth==1.0.1
+conformer==0.3.2
+safetensors==0.5.3
+omegaconf==2.3.0
+pykakasi==2.3.0
+s3tokenizer==0.3.0

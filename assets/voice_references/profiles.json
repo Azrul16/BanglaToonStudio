@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "categories": [
+    "male",
+    "female",
+    "child_male",
+    "child_female"
+  ],
+  "characters": {
+    "rahat": {
+      "name": "Rahat",
+      "category": "male",
+      "reference_audio": null,
+      "reference_audio_hash": null,
+      "authorization": null,
+      "generation_settings": {
+        "exaggeration": 0.5,
+        "cfg_weight": 0.5,
+        "temperature": 0.8,
+        "seed": 42
+      }
+    },
+    "arif": {
+      "name": "Arif",
+      "category": "male",
+      "reference_audio": null,
+      "reference_audio_hash": null,
+      "authorization": null,
+      "generation_settings": {
+        "exaggeration": 0.5,
+        "cfg_weight": 0.5,
+        "temperature": 0.8,
+        "seed": 42
+      }
+    },
+    "sami": {
+      "name": "Sami",
+      "category": "male",
+      "reference_audio": null,
+      "reference_audio_hash": null,
+      "authorization": null,
+      "generation_settings": {
+        "exaggeration": 0.5,
+        "cfg_weight": 0.5,
+        "temperature": 0.8,
+        "seed": 42
+      }
+    },
+    "mehna": {
+      "name": "Mehna",
+      "category": "female",
+      "reference_audio": null,
+      "reference_audio_hash": null,
+      "authorization": null,
+      "generation_settings": {
+        "exaggeration": 0.5,
+        "cfg_weight": 0.5,
+        "temperature": 0.8,
+        "seed": 42
+      }
+    },
+    "tithi": {
+      "name": "Tithi",
+      "category": "female",
+      "reference_audio": null,
+      "reference_audio_hash": null,
+      "authorization": null,
+      "generation_settings": {
+        "exaggeration": 0.5,
+        "cfg_weight": 0.5,
+        "temperature": 0.8,
+        "seed": 42
+      }
+    },
+    "nabil": {
+      "name": "Nabil",
+      "category": "child_male",
+      "reference_audio": null,
+      "reference_audio_hash": null,
+      "authorization": null,
+      "generation_settings": {
+        "exaggeration": 0.5,
+        "cfg_weight": 0.5,
+        "temperature": 0.8,
+        "seed": 42
+      }
+    },
+    "rayan": {
+      "name": "Rayan",
+      "category": "child_male",
+      "reference_audio": null,
+      "reference_audio_hash": null,
+      "authorization": null,
+      "generation_settings": {
+        "exaggeration": 0.5,
+        "cfg_weight": 0.5,
+        "temperature": 0.8,
+        "seed": 42
+      }
+    },
+    "fahim": {
+      "name": "Fahim",
+      "category": "child_male",
+      "reference_audio": null,
+      "reference_audio_hash": null,
+      "authorization": null,
+      "generation_settings": {
+        "exaggeration": 0.5,
+        "cfg_weight": 0.5,
+        "temperature": 0.8,
+        "seed": 42
+      }
+    },
+    "anika": {
+      "name": "Anika",
+      "category": "child_female",
+      "reference_audio": null,
+      "reference_audio_hash": null,
+      "authorization": null,
+      "generation_settings": {
+        "exaggeration": 0.5,
+        "cfg_weight": 0.5,
+        "temperature": 0.8,
+        "seed": 42
+      }
+    },
+    "maliha": {
+      "name": "Maliha",
+      "category": "child_female",
+      "reference_audio": null,
+      "reference_audio_hash": null,
+      "authorization": null,
+      "generation_settings": {
+        "exaggeration": 0.5,
+        "cfg_weight": 0.5,
+        "temperature": 0.8,
+        "seed": 42
+      }
+    },
+    "narrator": {
+      "name": "Narrator",
+      "category": "male",
+      "reference_audio": null,
+      "reference_audio_hash": null,
+      "authorization": null,
+      "generation_settings": {
+        "exaggeration": 0.5,
+        "cfg_weight": 0.5,
+        "temperature": 0.8,
+        "seed": 42
+      }
+    },
+    "unknown_voice": {
+      "name": "Off-screen voice",
+      "category": "male",
+      "reference_audio": null,
+      "reference_audio_hash": null,
+      "authorization": null,
+      "generation_settings": {
+        "exaggeration": 0.5,
+        "cfg_weight": 0.5,
+        "temperature": 0.8,
+        "seed": 42
+      }
+    }
+  }
+}

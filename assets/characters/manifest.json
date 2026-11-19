@@ -1,0 +1,96 @@
+{
+  "project": "Bangla Toon Studio",
+  "count": 10,
+  "characters": [
+    {
+      "character_id": "rahat",
+      "name_bn": "রাহাত",
+      "name_en": "Rahat",
+      "gender": "male",
+      "role": "protagonist",
+      "path": "assets/characters/rahat/character.json"
+    },
+    {
+      "character_id": "arif",
+      "name_bn": "আরিফ",
+      "name_en": "Arif",
+      "gender": "male",
+      "role": "friend",
+      "path": "assets/characters/arif/character.json"
+    },
+    {
+      "character_id": "sami",
+      "name_bn": "সামি",
+      "name_en": "Sami",
+      "gender": "male",
+      "role": "elder_guide",
+      "path": "assets/characters/sami/character.json"
+    },
+    {
+      "character_id": "mehna",
+      "name_bn": "মেহনা",
+      "name_en": "Mehna",
+      "gender": "female",
+      "role": "friend",
+      "path": "assets/characters/mehna/character.json"
+    },
+    {
+      "character_id": "tithi",
+      "name_bn": "তিথি",
+      "name_en": "Tithi",
+      "gender": "female",
+      "role": "cousin_friend",
+      "path": "assets/characters/tithi/character.json"
+    },
+    {
+      "character_id": "nabil",
+      "name_bn": "নাবিল",
+      "name_en": "Nabil",
+      "path": "assets/characters/nabil/character.json",
+      "animation_ready": true
+    },
+    {
+      "character_id": "rayan",
+      "name_bn": "রায়ান",
+      "name_en": "Rayan",
+      "path": "assets/characters/rayan/character.json",
+      "animation_ready": true
+    },
+    {
+      "character_id": "fahim",
+      "name_bn": "ফাহিম",
+      "name_en": "Fahim",
+      "path": "assets/characters/fahim/character.json",
+      "animation_ready": true
+    },
+    {
+      "character_id": "anika",
+      "name_bn": "অনিকা",
+      "name_en": "Anika",
+      "path": "assets/characters/anika/character.json",
+      "animation_ready": true
+    },
+    {
+      "character_id": "maliha",
+      "name_bn": "মালিহা",
+      "name_en": "Maliha",
+      "path": "assets/characters/maliha/character.json",
+      "animation_ready": true
+    }
+  ],
+  "asset_kind": "character_assets_and_design_references",
+  "animation_ready": [
+    "rahat",
+    "nabil",
+    "rayan",
+    "fahim",
+    "anika",
+    "maliha"
+  ],
+  "reference_only": [
+    "arif",
+    "sami",
+    "mehna",
+    "tithi"
+  ]
+}

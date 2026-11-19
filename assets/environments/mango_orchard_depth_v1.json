@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "background_id": "mango_orchard_day",
+  "pixels_per_meter": 100,
+  "ground_color": "c1a16c",
+  "leaf_color": "568a2d",
+  "trunk_color": "76502d",
+  "sky_color": "9bd6e1",
+  "source": "Existing registered mango_orchard_day artwork is retained as the backdrop and ground texture; supplementary original low-poly geometry follows its earth/leaf palette.",
+  "trees": [
+    {"position": [-5.1, 0, -2.5], "height": 6.3, "radius": 1.7},
+    {"position": [5.4, 0, -3.5], "height": 6.6, "radius": 1.9},
+    {"position": [-4.7, 0, -6.0], "height": 5.8, "radius": 1.5},
+    {"position": [4.6, 0, -7.0], "height": 5.7, "radius": 1.5}
+  ],
+  "blocked_zones": [[-5.1,-2.5,0.5],[5.4,-3.5,0.5],[-4.7,-6.0,0.5],[4.6,-7.0,0.5]],
+  "actor_depths": [-0.12, 0.12, -0.05],
+  "camera": {"fov": 42, "distance": 15.0, "target_height": 2.8, "height": 5.4, "max_pan_m": 0.45},
+  "limits": {"dynamic_lights": 1, "shadow_map": 1024, "rig_viewport": [512,768], "max_geometry_triangles": 12000}
+}

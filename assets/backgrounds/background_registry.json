@@ -1,0 +1,245 @@
+{
+  "version": "1.0",
+  "backgrounds": [
+    {
+      "id": "riverside_ghat_sunset",
+      "name_bn": "নদীর ঘাট",
+      "name_en": "Riverside Ghat at Sunset",
+      "time_of_day": "sunset",
+      "keywords_bn": [
+        "নদী",
+        "ঘাট",
+        "নৌকা",
+        "নদীর পাড়"
+      ],
+      "width": 1086,
+      "height": 1448,
+      "shorts_resolution": [
+        720,
+        1280
+      ],
+      "background_file": "background.png",
+      "shorts_file": "background_720x1280.png",
+      "characters_included": false,
+      "type": "static_2d_background",
+      "variant_source": null,
+      "layers": "flattened; not a parallax-ready multilayer scene"
+    },
+    {
+      "id": "village_courtyard_day",
+      "name_bn": "গ্রামের উঠান",
+      "name_en": "Village Courtyard",
+      "time_of_day": "day",
+      "keywords_bn": [
+        "বাড়ির উঠান",
+        "গ্রামের উঠান",
+        "পুকুরপাড়",
+        "বটগাছ"
+      ],
+      "width": 1186,
+      "height": 1327,
+      "shorts_resolution": [
+        720,
+        1280
+      ],
+      "background_file": "background.png",
+      "shorts_file": "background_720x1280.png",
+      "characters_included": false,
+      "type": "static_2d_background",
+      "variant_source": null,
+      "layers": "flattened; not a parallax-ready multilayer scene"
+    },
+    {
+      "id": "village_home_evening",
+      "name_bn": "গ্রামের বাড়ি",
+      "name_en": "Village Home at Evening",
+      "time_of_day": "evening",
+      "keywords_bn": [
+        "বাড়ি",
+        "বারান্দা",
+        "ঘর",
+        "হাতপাম্প"
+      ],
+      "width": 1086,
+      "height": 1448,
+      "shorts_resolution": [
+        720,
+        1280
+      ],
+      "background_file": "background.png",
+      "shorts_file": "background_720x1280.png",
+      "characters_included": false,
+      "type": "static_2d_background",
+      "variant_source": null,
+      "layers": "flattened; not a parallax-ready multilayer scene"
+    },
+    {
+      "id": "village_market_day",
+      "name_bn": "গ্রামের বাজার",
+      "name_en": "Village Market",
+      "time_of_day": "day",
+      "keywords_bn": [
+        "বাজার",
+        "হাট",
+        "দোকান",
+        "সবজি"
+      ],
+      "width": 1672,
+      "height": 941,
+      "shorts_resolution": [
+        720,
+        1280
+      ],
+      "background_file": "background.png",
+      "shorts_file": "background_720x1280.png",
+      "characters_included": false,
+      "type": "static_2d_background",
+      "variant_source": null,
+      "layers": "flattened; not a parallax-ready multilayer scene"
+    },
+    {
+      "id": "school_courtyard_day",
+      "name_bn": "স্কুল প্রাঙ্গণ",
+      "name_en": "School Courtyard",
+      "time_of_day": "day",
+      "keywords_bn": [
+        "স্কুল",
+        "বিদ্যালয়",
+        "ক্লাস",
+        "স্কুল মাঠ"
+      ],
+      "width": 1672,
+      "height": 941,
+      "shorts_resolution": [
+        720,
+        1280
+      ],
+      "background_file": "background.png",
+      "shorts_file": "background_720x1280.png",
+      "characters_included": false,
+      "type": "static_2d_background",
+      "variant_source": null,
+      "layers": "flattened; not a parallax-ready multilayer scene"
+    },
+    {
+      "id": "mango_orchard_day",
+      "name_bn": "আমবাগান",
+      "name_en": "Mango Orchard",
+      "time_of_day": "day",
+      "keywords_bn": [
+        "আমবাগান",
+        "বাগান",
+        "আমগাছ",
+        "ফল"
+      ],
+      "width": 1186,
+      "height": 1327,
+      "shorts_resolution": [
+        720,
+        1280
+      ],
+      "background_file": "background.png",
+      "shorts_file": "background_720x1280.png",
+      "characters_included": false,
+      "type": "static_2d_background",
+      "variant_source": null,
+      "layers": "flattened; not a parallax-ready multilayer scene"
+    },
+    {
+      "id": "railway_station_night",
+      "name_bn": "রাতের রেলস্টেশন",
+      "name_en": "Old Railway Station at Night",
+      "time_of_day": "night",
+      "keywords_bn": [
+        "রেলস্টেশন",
+        "স্টেশন",
+        "ট্রেন",
+        "রেললাইন"
+      ],
+      "width": 941,
+      "height": 1672,
+      "shorts_resolution": [
+        720,
+        1280
+      ],
+      "background_file": "background.png",
+      "shorts_file": "background_720x1280.png",
+      "characters_included": false,
+      "type": "static_2d_background",
+      "variant_source": null,
+      "layers": "flattened; not a parallax-ready multilayer scene"
+    },
+    {
+      "id": "village_courtyard_dusk",
+      "name_bn": "সন্ধ্যার উঠান",
+      "name_en": "Village Courtyard at Dusk",
+      "time_of_day": "dusk",
+      "keywords_bn": [
+        "সন্ধ্যার উঠান",
+        "বাড়ির উঠান",
+        "সন্ধ্যা",
+        "গ্রাম"
+      ],
+      "width": 1186,
+      "height": 1327,
+      "shorts_resolution": [
+        720,
+        1280
+      ],
+      "background_file": "background.png",
+      "shorts_file": "background_720x1280.png",
+      "characters_included": false,
+      "type": "static_2d_background",
+      "variant_source": "village_courtyard_day",
+      "layers": "flattened; not a parallax-ready multilayer scene"
+    },
+    {
+      "id": "village_market_dusk",
+      "name_bn": "সন্ধ্যার বাজার",
+      "name_en": "Village Market at Dusk",
+      "time_of_day": "dusk",
+      "keywords_bn": [
+        "সন্ধ্যার বাজার",
+        "হাট",
+        "দোকান",
+        "সন্ধ্যা"
+      ],
+      "width": 1672,
+      "height": 941,
+      "shorts_resolution": [
+        720,
+        1280
+      ],
+      "background_file": "background.png",
+      "shorts_file": "background_720x1280.png",
+      "characters_included": false,
+      "type": "static_2d_background",
+      "variant_source": "village_market_day",
+      "layers": "flattened; not a parallax-ready multilayer scene"
+    },
+    {
+      "id": "mango_orchard_misty",
+      "name_bn": "কুয়াশাচ্ছন্ন আমবাগান",
+      "name_en": "Misty Mango Orchard",
+      "time_of_day": "misty",
+      "keywords_bn": [
+        "কুয়াশা",
+        "আমবাগান",
+        "বাগান",
+        "রহস্য"
+      ],
+      "width": 1186,
+      "height": 1327,
+      "shorts_resolution": [
+        720,
+        1280
+      ],
+      "background_file": "background.png",
+      "shorts_file": "background_720x1280.png",
+      "characters_included": false,
+      "type": "static_2d_background",
+      "variant_source": "mango_orchard_day",
+      "layers": "flattened; not a parallax-ready multilayer scene"
+    }
+  ]
+}

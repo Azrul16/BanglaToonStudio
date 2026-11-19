@@ -1,0 +1,76 @@
+{
+  "key": "09f32fd9c89b6f3bd9788a448e19704003eafcce416dc8386e6d40b00cc4826e",
+  "sha256": "b5c23f48c72b800e5abbc89f44a312df96359e8d9e0b0fdc19c57a6872f743c9",
+  "source_sha256": "b5c23f48c72b800e5abbc89f44a312df96359e8d9e0b0fdc19c57a6872f743c9",
+  "character_id": "mehna",
+  "preset": {
+    "category": "female",
+    "pitch_semitones": 0.0,
+    "formant": "preserved",
+    "experimental": true,
+    "processor": {
+      "algorithm": "ffmpeg-rubberband",
+      "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+      "formant_preserved": true,
+      "diagnostic": null
+    },
+    "cache_schema": 2
+  },
+  "dsp": {
+    "algorithm": "ffmpeg-rubberband",
+    "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+    "formant_preserved": true,
+    "diagnostic": null
+  },
+  "transformation_applied": false,
+  "diagnostic": null,
+  "original": {
+    "frames": 93120,
+    "sample_rate": 24000,
+    "duration_seconds": 3.88,
+    "peak": 31128
+  },
+  "final": {
+    "frames": 93120,
+    "sample_rate": 24000,
+    "duration_seconds": 3.88,
+    "peak": 31128
+  },
+  "cache_hit": false,
+  "listening_review": "pending; pitch variation is not an independent human identity",
+  "original_cache_hit": false,
+  "original_cache_key": "d19b1c6796bf90666393e39b9245e823438c837260f116c209f1a408fe2c91f7",
+  "original_path": "D:\\Github\\ToonMaker\\workspace\\voice_cache_v9\\original\\d19b1c6796bf90666393e39b9245e823438c837260f116c209f1a408fe2c91f7\\original.wav",
+  "provider": "chatterbox_bangla",
+  "runtime": {
+    "ok": true,
+    "sample_rate": 24000,
+    "duration_seconds": 3.88,
+    "device": "cuda",
+    "torch": "2.8.0+cu126",
+    "torchaudio": "2.8.0+cu126",
+    "vocabulary": 2530,
+    "load_seconds": 67.34691709999606,
+    "generation_seconds": 5.982015599998704,
+    "float_peak": 1.00388503074646,
+    "clipped_float_samples": 0,
+    "raw_out_of_range_model_samples": 2,
+    "pcm_headroom_gain": 0.9463235040905106,
+    "raw_model_waveform": "D:\\Github\\ToonMaker\\workspace\\voice_cache_v9\\original\\d19b1c6796bf90666393e39b9245e823438c837260f116c209f1a408fe2c91f7\\original.model-float.wav",
+    "peak_cuda_allocated_mb": 3306.65185546875,
+    "reference_applied": true,
+    "generation_settings": {
+      "exaggeration": 0.5,
+      "cfg_weight": 0.5,
+      "temperature": 0.8,
+      "seed": 42
+    },
+    "provider": "chatterbox_bangla",
+    "model_id": "BosonLab/chatterbox-bangla",
+    "revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+    "fallback_reason": null
+  },
+  "usage_mode": "evaluation",
+  "official_sample_id": "006",
+  "commercial_permission_verified": false
+}

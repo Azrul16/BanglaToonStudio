@@ -1,0 +1,21 @@
+{
+  "character_id": "tithi",
+  "name_bn": "তিথি",
+  "name_en": "Tithi",
+  "gender": "female",
+  "role": "cousin_friend",
+  "style": "2d_cartoon",
+  "asset_version": "1.0.0",
+  "palette_reference": {
+    "skin": "#E7B79A",
+    "hair": "#1A1A1A",
+    "dress": "#F2B233",
+    "dupatta": "#FFFFFF"
+  },
+  "reference_sheet": "character_sheet.png",
+  "portrait_reference": "portrait_reference.png",
+  "rig_status": "reference_only",
+  "animation_ready": false,
+  "notes": "These are flattened reference illustrations, not transparent skeletal sprite layers. Create and validate dedicated body/head/mouth/eye sprites before lip-sync or keyframe animation.",
+  "age_group": "adult"
+}

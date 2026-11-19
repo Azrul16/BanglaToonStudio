@@ -1,0 +1,1 @@
+EVALUATION ONLY. Generated official demo outputs 007/006/002/005 were used as conditioning inputs. Commercial voice permissions remain unverified. Original reference recordings were not substituted. Each character has a PCM before-DSP WAV, a processed WAV, preserved unmodified FLOAT model output and Rhubarb cues. Human pronunciation/similarity/naturalness review is pending.

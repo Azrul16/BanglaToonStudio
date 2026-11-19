@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+.pytest_cache/
+models/
+workspace/*
+!workspace/.gitkeep
+*.pyc
+.tools/
+tools/rhubarb/
+tools/godot/
+godot/.godot/
+output/*
+!output/.gitkeep
+.build-venv/
+.chatterbox-venv/
+tools/chatterbox-finetuning/
+assets/voice_references/*.wav
+assets/voice_references/managed/
+assets/voice_references/migration-v9-backup/
+.launcher-build/
+Bangla Toon Studio.exe
+.env
+.env.*
+!.env.example

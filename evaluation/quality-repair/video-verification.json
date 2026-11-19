@@ -1,0 +1,29 @@
+{
+  "job_id": "quality-repair-benchmark",
+  "video": "D:\\Github\\ToonMaker\\output\\quality-repair-evaluation.mp4",
+  "duration_seconds": 18.733333,
+  "frames": 562,
+  "resolution": [
+    720,
+    1280
+  ],
+  "av_duration_difference_seconds": 0.0,
+  "decoded": true,
+  "black_intervals": 0,
+  "mouth_trace_rows": 570,
+  "active_speakers": [
+    "anika",
+    "nabil",
+    "rayan"
+  ],
+  "sampled_walking_frames": 25,
+  "stance_drift_px": 2.288818359375e-05,
+  "stance_height_drift_px": 0.0001220703200033313,
+  "pcm_peak": 28162,
+  "clipped_samples": 0,
+  "footsteps": 1,
+  "music": [
+    "music_mystery"
+  ],
+  "approved_audio_hashes_unchanged": true
+}

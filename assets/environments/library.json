@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "environments": {
+    "mango_orchard_day": {
+      "id": "mango_orchard_depth_v1",
+      "file": "mango_orchard_depth_v1.json",
+      "status": "prototype",
+      "background_identity": "53d05e9b25fc3546d36daa991fbed41164af1bdc6702a668804b42ec27269ddb"
+    }
+  }
+}
