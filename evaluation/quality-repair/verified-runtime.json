@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "sample_rate": 24000,
+  "duration_seconds": 5.0,
+  "device": "cuda",
+  "torch": "2.8.0+cu126",
+  "torchaudio": "2.8.0+cu126",
+  "model_id": "BosonLab/chatterbox-bangla",
+  "revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+  "tokenizer_sha256": "c62532abb26aaf500757011c0ef21c3fc793347a15e1d193544cf848de20eddd",
+  "reference_sha256": "e55bcb5c76aae3d974530d365604788edf3c3829f7ce7b63de91c0d46687d266",
+  "input_text_sha256": "e972b74c7265af159126d8703a57ba6f8527924bc67d95c0966cf032bcd43174",
+  "verified_checkpoint_sha256": {
+    "conds.pt": "6552d70568833628ba019c6b03459e77fe71ca197d5c560cef9411bee9d87f4e",
+    "s3gen.safetensors": "2b78103c654207393955e4900aac14a12de8ef25f4b09424f1ef91941f161d4e",
+    "t3_cfg.safetensors": "d75e48a19feb0a7e17da339708ef1bc7dc4880ee162d6858d8e880fc332be60b",
+    "tokenizer.json": "c62532abb26aaf500757011c0ef21c3fc793347a15e1d193544cf848de20eddd",
+    "ve.safetensors": "f0921cab452fa278bc25cd23ffd59d36f816d7dc5181dd1bef9751a7fb61f63c"
+  },
+  "vocabulary": 2530,
+  "load_seconds": 44.80512989999988,
+  "generation_seconds": 56.35489509999752,
+  "float_peak": 1.1541430950164795,
+  "clipped_float_samples": 0,
+  "raw_out_of_range_model_samples": 110,
+  "pcm_headroom_gain": 0.8231215038256893,
+  "raw_model_waveform": "D:\\Github\\ToonMaker\\evaluation\\quality-repair\\verified-runtime.model-float.wav",
+  "peak_cuda_allocated_mb": 3292.86865234375,
+  "reference_applied": true,
+  "generation_settings": {
+    "exaggeration": 0.6,
+    "cfg_weight": 0.5,
+    "temperature": 0.8,
+    "seed": 42
+  },
+  "provider": "chatterbox_bangla",
+  "fallback_reason": null,
+  "matches_approved_fresh_audio": true
+}

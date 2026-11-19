@@ -1,0 +1,26 @@
+{
+  "action": "look_left",
+  "version": "1.0.0",
+  "duration": 2.0,
+  "loop": false,
+  "keyframes": [
+    {
+      "t": 0,
+      "x": 0,
+      "y": 0,
+      "head_angle": 0
+    },
+    {
+      "t": 0.45,
+      "x": 0,
+      "y": 0,
+      "head_angle": -7
+    },
+    {
+      "t": 1,
+      "x": 0,
+      "y": 0,
+      "head_angle": -7
+    }
+  ]
+}

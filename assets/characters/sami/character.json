@@ -1,0 +1,21 @@
+{
+  "character_id": "sami",
+  "name_bn": "সামি",
+  "name_en": "Sami",
+  "gender": "male",
+  "role": "elder_guide",
+  "style": "2d_cartoon",
+  "asset_version": "1.0.0",
+  "palette_reference": {
+    "skin": "#D9A87B",
+    "hair": "#1B1B1B",
+    "vest": "#6B4F3B",
+    "kurta": "#EDE2D0"
+  },
+  "reference_sheet": "character_sheet.png",
+  "portrait_reference": "portrait_reference.png",
+  "rig_status": "reference_only",
+  "animation_ready": false,
+  "notes": "These are flattened reference illustrations, not transparent skeletal sprite layers. Create and validate dedicated body/head/mouth/eye sprites before lip-sync or keyframe animation.",
+  "age_group": "adult"
+}

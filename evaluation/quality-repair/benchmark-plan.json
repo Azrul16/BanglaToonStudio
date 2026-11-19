@@ -1,0 +1,11 @@
+{
+  "story": "দৃশ্য: আমবাগান\nচরিত্র: নাবিল, রায়ান, অনিকা\n[MUSIC: mystery]\n[নাবিল ধীরে হাঁটে।]\nনাবিল (উত্তেজিত): এই দেখ! গাছের নিচে একটা পুরোনো বাক্স! নিশ্চয়ই গুপ্তধন আছে!\nরায়ান (সাবধান করে): আরে দাঁড়া! আগে ভালো করে দেখি। সব অদ্ভুত জিনিস গুপ্তধন হয় না।\nঅনিকা (কৌতূহলী): এখানে তিনটা রঙিন পাথর আর একটা ধাঁধা আছে!\n[SFX: rustling_leaves]\n",
+  "duration_seconds": 18.7333,
+  "audio_hashes": {
+    "segment_001": "079c8b1174041d8700c2b46d159703345c57d1fab24861e988a22d2896576a5e",
+    "segment_002": "92506d8457595fd73f2367045d710e402f1a73eb54969a55e4edb663bff68901",
+    "segment_003": "a99c89a127ef84f5d66f33ce7584426d8326e1dc5b327a33500d43c63c78a9d2"
+  },
+  "human_listening_review": "approved for this short test",
+  "video_rendered": true
+}

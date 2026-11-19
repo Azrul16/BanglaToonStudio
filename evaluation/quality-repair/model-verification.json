@@ -1,0 +1,38 @@
+{
+  "repository": "BosonLab/chatterbox-bangla",
+  "revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+  "files": [
+    {
+      "file": "conds.pt",
+      "expected": "6552d70568833628ba019c6b03459e77fe71ca197d5c560cef9411bee9d87f4e",
+      "actual": "6552d70568833628ba019c6b03459e77fe71ca197d5c560cef9411bee9d87f4e",
+      "matches": true
+    },
+    {
+      "file": "s3gen.safetensors",
+      "expected": "2b78103c654207393955e4900aac14a12de8ef25f4b09424f1ef91941f161d4e",
+      "actual": "2b78103c654207393955e4900aac14a12de8ef25f4b09424f1ef91941f161d4e",
+      "matches": true
+    },
+    {
+      "file": "t3_cfg.safetensors",
+      "expected": "d75e48a19feb0a7e17da339708ef1bc7dc4880ee162d6858d8e880fc332be60b",
+      "actual": "d75e48a19feb0a7e17da339708ef1bc7dc4880ee162d6858d8e880fc332be60b",
+      "matches": true
+    },
+    {
+      "file": "tokenizer.json",
+      "expected": "1f8636a9bc8aff1b3a638a6f9ebde53645310c59",
+      "actual": "1f8636a9bc8aff1b3a638a6f9ebde53645310c59",
+      "matches": true
+    },
+    {
+      "file": "ve.safetensors",
+      "expected": "f0921cab452fa278bc25cd23ffd59d36f816d7dc5181dd1bef9751a7fb61f63c",
+      "actual": "f0921cab452fa278bc25cd23ffd59d36f816d7dc5181dd1bef9751a7fb61f63c",
+      "matches": true
+    }
+  ],
+  "official_model_card": "https://huggingface.co/BosonLab/chatterbox-bangla",
+  "vocabulary": 2530
+}

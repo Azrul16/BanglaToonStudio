@@ -1,0 +1,11 @@
+{
+  "model_id": "BosonLab/chatterbox-bangla",
+  "revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+  "sha256": {
+    "conds.pt": "6552d70568833628ba019c6b03459e77fe71ca197d5c560cef9411bee9d87f4e",
+    "s3gen.safetensors": "2b78103c654207393955e4900aac14a12de8ef25f4b09424f1ef91941f161d4e",
+    "t3_cfg.safetensors": "d75e48a19feb0a7e17da339708ef1bc7dc4880ee162d6858d8e880fc332be60b",
+    "tokenizer.json": "c62532abb26aaf500757011c0ef21c3fc793347a15e1d193544cf848de20eddd",
+    "ve.safetensors": "f0921cab452fa278bc25cd23ffd59d36f816d7dc5181dd1bef9751a7fb61f63c"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schema_version": 2,
+  "provider": "chatterbox_bangla",
+  "model_id": "BosonLab/chatterbox-bangla",
+  "base_voices": {
+    "male": null,
+    "female": null,
+    "child_male": null,
+    "child_female": null
+  },
+  "references": {},
+  "character_presets": {
+    "rahat": {
+      "category": "male",
+      "pitch_semitones": 0.0,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "arif": {
+      "category": "male",
+      "pitch_semitones": 0.6,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "sami": {
+      "category": "male",
+      "pitch_semitones": -0.7,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "mehna": {
+      "category": "female",
+      "pitch_semitones": 0.0,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "tithi": {
+      "category": "female",
+      "pitch_semitones": 0.6,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "nabil": {
+      "category": "child_male",
+      "pitch_semitones": 0.7,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "rayan": {
+      "category": "child_male",
+      "pitch_semitones": -0.5,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "fahim": {
+      "category": "child_male",
+      "pitch_semitones": 1.1,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "anika": {
+      "category": "child_female",
+      "pitch_semitones": 0.4,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "maliha": {
+      "category": "child_female",
+      "pitch_semitones": -0.5,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "narrator": {
+      "category": "male",
+      "pitch_semitones": 0.0,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "unknown_voice": {
+      "category": "male",
+      "pitch_semitones": 0.0,
+      "formant": "preserved",
+      "experimental": true
+    }
+  },
+  "migration_conflicts": {}
+}

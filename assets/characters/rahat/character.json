@@ -1,0 +1,92 @@
+{
+  "character_id": "rahat",
+  "name_bn": "রাহাত",
+  "name_en": "Rahat",
+  "gender": "male",
+  "role": "protagonist",
+  "style": "2d_cartoon",
+  "asset_version": "1.0.0",
+  "palette_reference": {
+    "skin": "#E0AC84",
+    "hair": "#1A1A1A",
+    "shirt": "#2F6FB2",
+    "pants": "#2B2B2B"
+  },
+  "reference_sheet": "character_sheet.png",
+  "portrait_reference": "portrait_reference.png",
+  "rig_status": "ready",
+  "animation_ready": true,
+  "notes": "Original simplified vector-style rig derived from the saved palette; flattened design references are preserved.",
+  "version": "1.0.0",
+  "rig_version": "1.0.0",
+  "voice_id": "default_bn",
+  "canvas": [
+    384,
+    640
+  ],
+  "default_animation": "idle",
+  "anchors": {
+    "head": [
+      192,
+      224
+    ],
+    "eyes": [
+      192,
+      148
+    ],
+    "mouth": [
+      192,
+      197
+    ],
+    "feet": [
+      192,
+      612
+    ],
+    "left_arm": [
+      116,
+      271
+    ],
+    "right_arm": [
+      268,
+      271
+    ],
+    "left_leg": [
+      148,
+      435
+    ],
+    "right_leg": [
+      233,
+      435
+    ]
+  },
+  "file_hashes": {
+    "animations/afraid.json": "dbeec8e85658e765db74c086eeaf2c15ffc656ca7f280cfb2397f185b0ac00d0",
+    "animations/blink.json": "1309bba2419748f247ceb807b6831e74a9774f75a01411499fc95f91e5a55842",
+    "animations/idle.json": "170437779c7d4e8f8ea122ece7bd2b3df61c0ed67a659e5943837b6e57e8ccaf",
+    "animations/look_left.json": "a7842a31ba9c0cae8b9901fa601f7e0d1465d4e8b223060ea8aef41228b5c59c",
+    "animations/look_right.json": "3d5b4f40c9289f08e8a0bc8f141ce5dc9e30674367f3fa42ce41f20c40f119e0",
+    "animations/surprised.json": "ac08dac4375cf8e72c994aa0b1550d81ffca7267f717650ee14b21d767a34982",
+    "animations/talk.json": "6b9cd02b0d4eddf66f3c44ec74a1374a058616a17b438c34c2098928b635a9ca",
+    "animations/turn_head.json": "ee7d268f375d4fe3d4a539c8fe62523308712fa36c90b016e9ca91c452b431cb",
+    "animations/walk.json": "e0a9d3b7220610365b8ec00cf933dd4bdd7ae3408e274525ab41418d14ee4ea5",
+    "arms/left.png": "ea71f7d880a5c2f43cdb2e8e1a04d6167f76cf601653a7e1b84c4114abccf7a2",
+    "arms/right.png": "1023918b09358cee2338c932e978d923df581d8609ed513b212df6b59ba76d94",
+    "body.png": "99ac736434cbb2e23bb7df19a2676d3a1d906170fb4ab0834b567ff34195405c",
+    "eyes/closed.png": "6bb400630c3e17163427dcf7bbf296846b6b6cd1e5877b225c38db3800851127",
+    "eyes/open.png": "e4606f4df38e7ad986e4f36e17182c08631fbf71962ed65e66ec3816dfb7ceb0",
+    "hair.png": "b0c50b2997671041de0a5c2042de50687673b00de5c8ebfb147efdc196ab4745",
+    "head.png": "0a291d83aa0fd82c4c465a6064f1a9b003e30d4c8d49d0d9f0fe7e86d5f9f023",
+    "legs/left.png": "eb0e4976814747171a575da6c68010091e8ea58fd11bf5ec6c202655e29d585a",
+    "legs/right.png": "f6f72ac2d9e129938430815de1f0fad46f965516649fcd4466e306a4fdfd6ed3",
+    "mouths/A.png": "b3278e86d05f697f73b10e1e110d7d5f7bebb3c3208679b989717b8e15c3574e",
+    "mouths/B.png": "fcf08e76cd8727ac54f405f7605610e185d1c92d4d2c0bcf210df2a1c3ccaae9",
+    "mouths/C.png": "65ce5ba18b20efeb6fb4b598d5c2b20c412335ea832f2481ea4d6e7e4429fa4a",
+    "mouths/D.png": "28d5cbfde58e5b8c9f56f3d811e1d834447b154ce7a39c27d1bf432c8b5baf38",
+    "mouths/E.png": "e3a2cde805e0f7e9581bc396ece869983e624b4742dda5937886728c9f98c6b6",
+    "mouths/F.png": "093e0c3845ee95a071fe66e507a0cf91fdffcb29dbd33e0705693b8cb4f7897a",
+    "mouths/G.png": "32014d0075b5379e8d70932753db8ba8753f6bbc9a96f31862a250c8c071c239",
+    "mouths/H.png": "2bf3de4b0e3ae4b475eff10df88e44cfbc983a2893cdf351fc56cec16bd4c2e6",
+    "mouths/X.png": "9e6610129e956b6c260bcc07572a21f056c38d3e122fecdda3d00b4bb3c01736"
+  },
+  "age_group": "adult"
+}

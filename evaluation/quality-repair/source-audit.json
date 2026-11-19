@@ -1,0 +1,848 @@
+{
+  "source_video": "D:\\Github\\ToonMaker\\output\\35334dd3d8a541c1a9de2ceb54854c4f.mp4",
+  "source_job": "35334dd3d8a541c1a9de2ceb54854c4f",
+  "comparisons": [
+    {
+      "segment": "segment_001",
+      "speaker": "nabil",
+      "text": "এই দেখ! গাছের নিচে একটা পুরোনো বাক্স! নিশ্চয়ই গুপ্তধন আছে!",
+      "synthesis_text": "এই দেখ! গাছের নিচে একটা পুরোনো বাক্স! নিশ্চয়ই গুপ্তধন আছে!",
+      "start": 6.2,
+      "voice": {
+        "provider": "chatterbox_bangla",
+        "model": "BosonLab/chatterbox-bangla",
+        "voice_id": "nabil",
+        "language": "bn",
+        "reference_audio_hash": "e55bcb5c76aae3d974530d365604788edf3c3829f7ce7b63de91c0d46687d266",
+        "model_revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+        "generation_settings": {
+          "exaggeration": 0.5,
+          "cfg_weight": 0.5,
+          "temperature": 0.8,
+          "seed": 42
+        },
+        "synthesis_version": 3,
+        "category": "child_male",
+        "variation": {
+          "category": "child_male",
+          "pitch_semitones": 0.7,
+          "formant": "preserved",
+          "experimental": true,
+          "processor": {
+            "algorithm": "ffmpeg-rubberband",
+            "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+            "formant_preserved": true,
+            "diagnostic": null
+          },
+          "cache_schema": 2
+        },
+        "usage_mode": "evaluation",
+        "official_sample_id": "002"
+      },
+      "provider_metrics": {
+        "provider": "chatterbox_bangla",
+        "key": "812d14ffd2f65a721173a6f5bc885df06135dedee96b9eca7a43e17a4a522623",
+        "sha256": "503bcaa7cfe2f385f76d6f8d827430407f34dd4ae7f9a4c8fc11d5fef0c7d3a7",
+        "source_sha256": "6f3bcda00de5409830827dec302d47384d7088488d698520883944bf38eb69b5",
+        "character_id": "nabil",
+        "preset": {
+          "category": "child_male",
+          "pitch_semitones": 0.7,
+          "formant": "preserved",
+          "experimental": true,
+          "processor": {
+            "algorithm": "ffmpeg-rubberband",
+            "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+            "formant_preserved": true,
+            "diagnostic": null
+          },
+          "cache_schema": 2
+        },
+        "dsp": {
+          "algorithm": "ffmpeg-rubberband",
+          "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+          "formant_preserved": true,
+          "diagnostic": null
+        },
+        "transformation_applied": true,
+        "diagnostic": null,
+        "original": {
+          "frames": 134400,
+          "sample_rate": 24000,
+          "duration_seconds": 5.6,
+          "peak": 31128
+        },
+        "final": {
+          "frames": 134400,
+          "sample_rate": 24000,
+          "duration_seconds": 5.6,
+          "peak": 31660
+        },
+        "cache_hit": false,
+        "listening_review": "pending; pitch variation is not an independent human identity",
+        "original_cache_hit": false,
+        "original_cache_key": "7df9359b68de45cd0ba28fee57569474b58143026ee3140d60f2e83036f8c38e",
+        "original_path": "D:\\Github\\ToonMaker\\workspace\\voice_cache_v9\\original\\7df9359b68de45cd0ba28fee57569474b58143026ee3140d60f2e83036f8c38e\\original.wav",
+        "runtime": {
+          "ok": true,
+          "sample_rate": 24000,
+          "duration_seconds": 5.6,
+          "device": "cuda",
+          "torch": "2.8.0+cu126",
+          "torchaudio": "2.8.0+cu126",
+          "vocabulary": 2530,
+          "load_seconds": 41.58281729999726,
+          "generation_seconds": 56.07193779999943,
+          "float_peak": 1.0770010948181152,
+          "clipped_float_samples": 0,
+          "raw_out_of_range_model_samples": 27,
+          "pcm_headroom_gain": 0.8820789547669278,
+          "raw_model_waveform": "D:\\Github\\ToonMaker\\workspace\\voice_cache_v9\\original\\7df9359b68de45cd0ba28fee57569474b58143026ee3140d60f2e83036f8c38e\\original.model-float.wav",
+          "peak_cuda_allocated_mb": 3309.298828125,
+          "reference_applied": true,
+          "generation_settings": {
+            "exaggeration": 0.6,
+            "cfg_weight": 0.5,
+            "temperature": 0.8,
+            "seed": 42
+          },
+          "provider": "chatterbox_bangla",
+          "model_id": "BosonLab/chatterbox-bangla",
+          "revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+          "fallback_reason": null
+        },
+        "usage_mode": "evaluation",
+        "official_sample_id": "002",
+        "commercial_permission_verified": false
+      },
+      "reports": {
+        "original_tts": {
+          "version": 1,
+          "sample_rate": 24000,
+          "frames": 134400,
+          "duration_seconds": 5.6,
+          "peak": 0.949951171875,
+          "clipped_samples": 0,
+          "rms": 0.0995525156247609,
+          "dc_offset": -9.121395292736235e-05,
+          "longest_silence_seconds": 0.44,
+          "silence_fraction": 0.24642857142857144,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        },
+        "processed_voice": {
+          "version": 1,
+          "sample_rate": 24000,
+          "frames": 134400,
+          "duration_seconds": 5.6,
+          "peak": 0.9661865234375,
+          "clipped_samples": 0,
+          "rms": 0.09392018953268852,
+          "dc_offset": -8.139678410121373e-05,
+          "longest_silence_seconds": 0.44,
+          "silence_fraction": 0.25,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        },
+        "final_mix_excerpt": {
+          "version": 1,
+          "sample_rate": 48000,
+          "frames": 268800,
+          "duration_seconds": 5.6,
+          "peak": 0.8824462890625,
+          "clipped_samples": 0,
+          "rms": 0.08458186916493797,
+          "dc_offset": 5.260467529296875e-05,
+          "longest_silence_seconds": 0.1,
+          "silence_fraction": 0.060714285714285714,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        }
+      },
+      "original_equals_processed": false
+    },
+    {
+      "segment": "segment_002",
+      "speaker": "rayan",
+      "text": "আরে দাঁড়া! আগে ভালো করে দেখি। সব অদ্ভুত জিনিস গুপ্তধন হয় না।",
+      "synthesis_text": "আরে দাঁড়া! আগে ভালো করে দেখি। সব অদ্ভুত জিনিস গুপ্তধন হয় না।",
+      "start": 15.8,
+      "voice": {
+        "provider": "chatterbox_bangla",
+        "model": "BosonLab/chatterbox-bangla",
+        "voice_id": "rayan",
+        "language": "bn",
+        "reference_audio_hash": "e55bcb5c76aae3d974530d365604788edf3c3829f7ce7b63de91c0d46687d266",
+        "model_revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+        "generation_settings": {
+          "exaggeration": 0.5,
+          "cfg_weight": 0.5,
+          "temperature": 0.8,
+          "seed": 42
+        },
+        "synthesis_version": 3,
+        "category": "child_male",
+        "variation": {
+          "category": "child_male",
+          "pitch_semitones": -0.5,
+          "formant": "preserved",
+          "experimental": true,
+          "processor": {
+            "algorithm": "ffmpeg-rubberband",
+            "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+            "formant_preserved": true,
+            "diagnostic": null
+          },
+          "cache_schema": 2
+        },
+        "usage_mode": "evaluation",
+        "official_sample_id": "002"
+      },
+      "provider_metrics": {
+        "provider": "chatterbox_bangla",
+        "key": "05b7436c74d86d3a45e1268f8d637a635b94142577edd1b16795d6aacca6f4f3",
+        "sha256": "1e69612660b67517588a5eb0f10fdf23b7fa6ce3bb0beea14194fbeebed3cda4",
+        "source_sha256": "79f4233a83a140e4c2dfe9997d9e9b1b6b1e832de8bdb5f2e0537ced5b494eb3",
+        "character_id": "rayan",
+        "preset": {
+          "category": "child_male",
+          "pitch_semitones": -0.5,
+          "formant": "preserved",
+          "experimental": true,
+          "processor": {
+            "algorithm": "ffmpeg-rubberband",
+            "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+            "formant_preserved": true,
+            "diagnostic": null
+          },
+          "cache_schema": 2
+        },
+        "dsp": {
+          "algorithm": "ffmpeg-rubberband",
+          "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+          "formant_preserved": true,
+          "diagnostic": null
+        },
+        "transformation_applied": true,
+        "diagnostic": null,
+        "original": {
+          "frames": 109440,
+          "sample_rate": 24000,
+          "duration_seconds": 4.56,
+          "peak": 31128
+        },
+        "final": {
+          "frames": 109440,
+          "sample_rate": 24000,
+          "duration_seconds": 4.56,
+          "peak": 31134
+        },
+        "cache_hit": false,
+        "listening_review": "pending; pitch variation is not an independent human identity",
+        "original_cache_hit": false,
+        "original_cache_key": "e251a72d1fc72fd6c3e3b29ba407b94e05b0a7c990e4308ff6007315d14c7f48",
+        "original_path": "D:\\Github\\ToonMaker\\workspace\\voice_cache_v9\\original\\e251a72d1fc72fd6c3e3b29ba407b94e05b0a7c990e4308ff6007315d14c7f48\\original.wav",
+        "runtime": {
+          "ok": true,
+          "sample_rate": 24000,
+          "duration_seconds": 4.56,
+          "device": "cuda",
+          "torch": "2.8.0+cu126",
+          "torchaudio": "2.8.0+cu126",
+          "vocabulary": 2530,
+          "load_seconds": 41.58281729999726,
+          "generation_seconds": 7.560359199997038,
+          "float_peak": 1.1047041416168213,
+          "clipped_float_samples": 0,
+          "raw_out_of_range_model_samples": 37,
+          "pcm_headroom_gain": 0.859958756567709,
+          "raw_model_waveform": "D:\\Github\\ToonMaker\\workspace\\voice_cache_v9\\original\\e251a72d1fc72fd6c3e3b29ba407b94e05b0a7c990e4308ff6007315d14c7f48\\original.model-float.wav",
+          "peak_cuda_allocated_mb": 3327.6611328125,
+          "reference_applied": true,
+          "generation_settings": {
+            "exaggeration": 0.42,
+            "cfg_weight": 0.5,
+            "temperature": 0.8,
+            "seed": 42
+          },
+          "provider": "chatterbox_bangla",
+          "model_id": "BosonLab/chatterbox-bangla",
+          "revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+          "fallback_reason": null
+        },
+        "usage_mode": "evaluation",
+        "official_sample_id": "002",
+        "commercial_permission_verified": false
+      },
+      "reports": {
+        "original_tts": {
+          "version": 1,
+          "sample_rate": 24000,
+          "frames": 109440,
+          "duration_seconds": 4.56,
+          "peak": 0.949951171875,
+          "clipped_samples": 0,
+          "rms": 0.12432003427116951,
+          "dc_offset": -7.8199899684616e-05,
+          "longest_silence_seconds": 0.26,
+          "silence_fraction": 0.19736842105263158,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        },
+        "processed_voice": {
+          "version": 1,
+          "sample_rate": 24000,
+          "frames": 109440,
+          "duration_seconds": 4.56,
+          "peak": 0.95013427734375,
+          "clipped_samples": 0,
+          "rms": 0.1176957863107117,
+          "dc_offset": -7.497134961579976e-05,
+          "longest_silence_seconds": 0.26,
+          "silence_fraction": 0.19298245614035087,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        },
+        "final_mix_excerpt": {
+          "version": 1,
+          "sample_rate": 48000,
+          "frames": 218880,
+          "duration_seconds": 4.56,
+          "peak": 0.87371826171875,
+          "clipped_samples": 0,
+          "rms": 0.105976442470508,
+          "dc_offset": 7.306734720865885e-05,
+          "longest_silence_seconds": 0.08,
+          "silence_fraction": 0.039473684210526314,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        }
+      },
+      "original_equals_processed": false
+    },
+    {
+      "segment": "segment_003",
+      "speaker": "anika",
+      "text": "এখানে তিনটা রঙিন পাথর আর একটা ধাঁধা আছে!",
+      "synthesis_text": "এখানে তিনটা রঙিন পাথর আর একটা ধাঁধা আছে!",
+      "start": 21.766666666666666,
+      "voice": {
+        "provider": "chatterbox_bangla",
+        "model": "BosonLab/chatterbox-bangla",
+        "voice_id": "anika",
+        "language": "bn",
+        "reference_audio_hash": "8f8222b64d17a572ea2d0c575cfaea3cf6679b12f4d31040d3641354d3711bcc",
+        "model_revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+        "generation_settings": {
+          "exaggeration": 0.5,
+          "cfg_weight": 0.5,
+          "temperature": 0.8,
+          "seed": 42
+        },
+        "synthesis_version": 3,
+        "category": "child_female",
+        "variation": {
+          "category": "child_female",
+          "pitch_semitones": 0.4,
+          "formant": "preserved",
+          "experimental": true,
+          "processor": {
+            "algorithm": "ffmpeg-rubberband",
+            "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+            "formant_preserved": true,
+            "diagnostic": null
+          },
+          "cache_schema": 2
+        },
+        "usage_mode": "evaluation",
+        "official_sample_id": "005"
+      },
+      "provider_metrics": {
+        "provider": "chatterbox_bangla",
+        "key": "8ec006277ce0f6156805df5cd4886cec752413b73454912a5979c977ad34ce77",
+        "sha256": "7875e5f7bf858959c0ee94f456a4cb5edfeba365ca1794babfff375c92bb5b5b",
+        "source_sha256": "a99c89a127ef84f5d66f33ce7584426d8326e1dc5b327a33500d43c63c78a9d2",
+        "character_id": "anika",
+        "preset": {
+          "category": "child_female",
+          "pitch_semitones": 0.4,
+          "formant": "preserved",
+          "experimental": true,
+          "processor": {
+            "algorithm": "ffmpeg-rubberband",
+            "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+            "formant_preserved": true,
+            "diagnostic": null
+          },
+          "cache_schema": 2
+        },
+        "dsp": {
+          "algorithm": "ffmpeg-rubberband",
+          "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+          "formant_preserved": true,
+          "diagnostic": null
+        },
+        "transformation_applied": true,
+        "diagnostic": null,
+        "original": {
+          "frames": 74880,
+          "sample_rate": 24000,
+          "duration_seconds": 3.12,
+          "peak": 29309
+        },
+        "final": {
+          "frames": 74880,
+          "sample_rate": 24000,
+          "duration_seconds": 3.12,
+          "peak": 23429
+        },
+        "cache_hit": false,
+        "listening_review": "pending; pitch variation is not an independent human identity",
+        "original_cache_hit": false,
+        "original_cache_key": "a5839d43c61cf083461b98bea4970d4d7ec6a53347bf5245125c9c3e4c961ad5",
+        "original_path": "D:\\Github\\ToonMaker\\workspace\\voice_cache_v9\\original\\a5839d43c61cf083461b98bea4970d4d7ec6a53347bf5245125c9c3e4c961ad5\\original.wav",
+        "runtime": {
+          "ok": true,
+          "sample_rate": 24000,
+          "duration_seconds": 3.12,
+          "device": "cuda",
+          "torch": "2.8.0+cu126",
+          "torchaudio": "2.8.0+cu126",
+          "vocabulary": 2530,
+          "load_seconds": 41.58281729999726,
+          "generation_seconds": 7.141618800000288,
+          "float_peak": 0.8944704532623291,
+          "clipped_float_samples": 0,
+          "raw_out_of_range_model_samples": 0,
+          "pcm_headroom_gain": 1.0,
+          "raw_model_waveform": "D:\\Github\\ToonMaker\\workspace\\voice_cache_v9\\original\\a5839d43c61cf083461b98bea4970d4d7ec6a53347bf5245125c9c3e4c961ad5\\original.model-float.wav",
+          "peak_cuda_allocated_mb": 3277.298828125,
+          "reference_applied": true,
+          "generation_settings": {
+            "exaggeration": 0.5,
+            "cfg_weight": 0.5,
+            "temperature": 0.8,
+            "seed": 42
+          },
+          "provider": "chatterbox_bangla",
+          "model_id": "BosonLab/chatterbox-bangla",
+          "revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+          "fallback_reason": null
+        },
+        "usage_mode": "evaluation",
+        "official_sample_id": "005",
+        "commercial_permission_verified": false
+      },
+      "reports": {
+        "original_tts": {
+          "version": 1,
+          "sample_rate": 24000,
+          "frames": 74880,
+          "duration_seconds": 3.12,
+          "peak": 0.894439697265625,
+          "clipped_samples": 0,
+          "rms": 0.1282946448257322,
+          "dc_offset": -0.00015954930558163895,
+          "longest_silence_seconds": 0.18,
+          "silence_fraction": 0.09615384615384616,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        },
+        "processed_voice": {
+          "version": 1,
+          "sample_rate": 24000,
+          "frames": 74880,
+          "duration_seconds": 3.12,
+          "peak": 0.714996337890625,
+          "clipped_samples": 0,
+          "rms": 0.12281319651303924,
+          "dc_offset": -0.00015415900792831028,
+          "longest_silence_seconds": 0.18,
+          "silence_fraction": 0.10897435897435898,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        },
+        "final_mix_excerpt": {
+          "version": 1,
+          "sample_rate": 48000,
+          "frames": 149760,
+          "duration_seconds": 3.12,
+          "peak": 0.646575927734375,
+          "clipped_samples": 0,
+          "rms": 0.11058579395023581,
+          "dc_offset": -7.04302747025449e-05,
+          "longest_silence_seconds": 0.02,
+          "silence_fraction": 0.00641025641025641,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        }
+      },
+      "original_equals_processed": false
+    },
+    {
+      "segment": "segment_010",
+      "speaker": "rayan",
+      "text": "পেয়েছি! তোয়ালে! তোয়ালে দিয়ে শরীর শুকালে তোয়ালেটাই ভিজে যায়!",
+      "synthesis_text": "পেয়েছি! তোয়ালে! তোয়ালে দিয়ে শরীর শুকালে তোয়ালেটাই ভিজে যায়!",
+      "start": 46.0,
+      "voice": {
+        "provider": "chatterbox_bangla",
+        "model": "BosonLab/chatterbox-bangla",
+        "voice_id": "rayan",
+        "language": "bn",
+        "reference_audio_hash": "e55bcb5c76aae3d974530d365604788edf3c3829f7ce7b63de91c0d46687d266",
+        "model_revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+        "generation_settings": {
+          "exaggeration": 0.5,
+          "cfg_weight": 0.5,
+          "temperature": 0.8,
+          "seed": 42
+        },
+        "synthesis_version": 3,
+        "category": "child_male",
+        "variation": {
+          "category": "child_male",
+          "pitch_semitones": -0.5,
+          "formant": "preserved",
+          "experimental": true,
+          "processor": {
+            "algorithm": "ffmpeg-rubberband",
+            "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+            "formant_preserved": true,
+            "diagnostic": null
+          },
+          "cache_schema": 2
+        },
+        "usage_mode": "evaluation",
+        "official_sample_id": "002"
+      },
+      "provider_metrics": {
+        "provider": "chatterbox_bangla",
+        "key": "be95d13baebb15b30ac412b38d3b0de90cda64783f3a7fe3a16ccdfe22680c24",
+        "sha256": "5bb2afd3e0f8ac9d04acb5e2301df13b18170e03ecda87b37bbd403fd7c43155",
+        "source_sha256": "e2e9965b5e5cced6c0bfd4af3589a6205df66e34496eac12d0a93ec3971d3b7f",
+        "character_id": "rayan",
+        "preset": {
+          "category": "child_male",
+          "pitch_semitones": -0.5,
+          "formant": "preserved",
+          "experimental": true,
+          "processor": {
+            "algorithm": "ffmpeg-rubberband",
+            "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+            "formant_preserved": true,
+            "diagnostic": null
+          },
+          "cache_schema": 2
+        },
+        "dsp": {
+          "algorithm": "ffmpeg-rubberband",
+          "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+          "formant_preserved": true,
+          "diagnostic": null
+        },
+        "transformation_applied": true,
+        "diagnostic": null,
+        "original": {
+          "frames": 114240,
+          "sample_rate": 24000,
+          "duration_seconds": 4.76,
+          "peak": 31128
+        },
+        "final": {
+          "frames": 114240,
+          "sample_rate": 24000,
+          "duration_seconds": 4.76,
+          "peak": 30100
+        },
+        "cache_hit": false,
+        "listening_review": "pending; pitch variation is not an independent human identity",
+        "original_cache_hit": false,
+        "original_cache_key": "03ad634033f10e8c0ad9cc9608c85873493bf183dc71498246e3eb6a8dad868c",
+        "original_path": "D:\\Github\\ToonMaker\\workspace\\voice_cache_v9\\original\\03ad634033f10e8c0ad9cc9608c85873493bf183dc71498246e3eb6a8dad868c\\original.wav",
+        "runtime": {
+          "ok": true,
+          "sample_rate": 24000,
+          "duration_seconds": 4.76,
+          "device": "cuda",
+          "torch": "2.8.0+cu126",
+          "torchaudio": "2.8.0+cu126",
+          "vocabulary": 2530,
+          "load_seconds": 41.58281729999726,
+          "generation_seconds": 9.440806200000225,
+          "float_peak": 1.083794355392456,
+          "clipped_float_samples": 0,
+          "raw_out_of_range_model_samples": 21,
+          "pcm_headroom_gain": 0.8765500533133821,
+          "raw_model_waveform": "D:\\Github\\ToonMaker\\workspace\\voice_cache_v9\\original\\03ad634033f10e8c0ad9cc9608c85873493bf183dc71498246e3eb6a8dad868c\\original.model-float.wav",
+          "peak_cuda_allocated_mb": 3339.56201171875,
+          "reference_applied": true,
+          "generation_settings": {
+            "exaggeration": 0.6,
+            "cfg_weight": 0.5,
+            "temperature": 0.8,
+            "seed": 42
+          },
+          "provider": "chatterbox_bangla",
+          "model_id": "BosonLab/chatterbox-bangla",
+          "revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+          "fallback_reason": null
+        },
+        "usage_mode": "evaluation",
+        "official_sample_id": "002",
+        "commercial_permission_verified": false
+      },
+      "reports": {
+        "original_tts": {
+          "version": 1,
+          "sample_rate": 24000,
+          "frames": 114240,
+          "duration_seconds": 4.76,
+          "peak": 0.949951171875,
+          "clipped_samples": 0,
+          "rms": 0.12000250222719214,
+          "dc_offset": -6.53710351938627e-05,
+          "longest_silence_seconds": 0.48,
+          "silence_fraction": 0.2773109243697479,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        },
+        "processed_voice": {
+          "version": 1,
+          "sample_rate": 24000,
+          "frames": 114240,
+          "duration_seconds": 4.76,
+          "peak": 0.9185791015625,
+          "clipped_samples": 0,
+          "rms": 0.11111273404489187,
+          "dc_offset": -5.705510200906535e-05,
+          "longest_silence_seconds": 0.48,
+          "silence_fraction": 0.27310924369747897,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        },
+        "final_mix_excerpt": {
+          "version": 1,
+          "sample_rate": 48000,
+          "frames": 228480,
+          "duration_seconds": 4.76,
+          "peak": 0.825531005859375,
+          "clipped_samples": 0,
+          "rms": 0.10005005077101684,
+          "dc_offset": 0.0001341122539103532,
+          "longest_silence_seconds": 0.08,
+          "silence_fraction": 0.06302521008403361,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        }
+      },
+      "original_equals_processed": false
+    },
+    {
+      "segment": "segment_017",
+      "speaker": "anika",
+      "text": "রাজামশাই! আগে ধাঁধার উত্তর দিতে শেখো!",
+      "synthesis_text": "রাজামশাই! আগে ধাঁধার উত্তর দিতে শেখো!",
+      "start": 73.13333333333334,
+      "voice": {
+        "provider": "chatterbox_bangla",
+        "model": "BosonLab/chatterbox-bangla",
+        "voice_id": "anika",
+        "language": "bn",
+        "reference_audio_hash": "8f8222b64d17a572ea2d0c575cfaea3cf6679b12f4d31040d3641354d3711bcc",
+        "model_revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+        "generation_settings": {
+          "exaggeration": 0.5,
+          "cfg_weight": 0.5,
+          "temperature": 0.8,
+          "seed": 42
+        },
+        "synthesis_version": 3,
+        "category": "child_female",
+        "variation": {
+          "category": "child_female",
+          "pitch_semitones": 0.4,
+          "formant": "preserved",
+          "experimental": true,
+          "processor": {
+            "algorithm": "ffmpeg-rubberband",
+            "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+            "formant_preserved": true,
+            "diagnostic": null
+          },
+          "cache_schema": 2
+        },
+        "usage_mode": "evaluation",
+        "official_sample_id": "005"
+      },
+      "provider_metrics": {
+        "provider": "chatterbox_bangla",
+        "key": "80b23d97bdfdb969ddd5cf51171e5251240836b629cd80a4fcc9098d3e0b9daa",
+        "sha256": "b2c3658f90d4d98e198b972bf8f7b56fb1314d98be0ce18d25e33ca12f80d33a",
+        "source_sha256": "8060dc9b37a0e97fa06c36082ff41cd68a77306c2c555e0e0e3e1a0939824282",
+        "character_id": "anika",
+        "preset": {
+          "category": "child_female",
+          "pitch_semitones": 0.4,
+          "formant": "preserved",
+          "experimental": true,
+          "processor": {
+            "algorithm": "ffmpeg-rubberband",
+            "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+            "formant_preserved": true,
+            "diagnostic": null
+          },
+          "cache_schema": 2
+        },
+        "dsp": {
+          "algorithm": "ffmpeg-rubberband",
+          "version": "ffmpeg version 9.0.2-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+          "formant_preserved": true,
+          "diagnostic": null
+        },
+        "transformation_applied": true,
+        "diagnostic": null,
+        "original": {
+          "frames": 77760,
+          "sample_rate": 24000,
+          "duration_seconds": 3.24,
+          "peak": 31128
+        },
+        "final": {
+          "frames": 77760,
+          "sample_rate": 24000,
+          "duration_seconds": 3.24,
+          "peak": 29738
+        },
+        "cache_hit": false,
+        "listening_review": "pending; pitch variation is not an independent human identity",
+        "original_cache_hit": false,
+        "original_cache_key": "bf0713fa9867d955b6f7bd5e96368256038ea36445caefb4f07630e739806846",
+        "original_path": "D:\\Github\\ToonMaker\\workspace\\voice_cache_v9\\original\\bf0713fa9867d955b6f7bd5e96368256038ea36445caefb4f07630e739806846\\original.wav",
+        "runtime": {
+          "ok": true,
+          "sample_rate": 24000,
+          "duration_seconds": 3.24,
+          "device": "cuda",
+          "torch": "2.8.0+cu126",
+          "torchaudio": "2.8.0+cu126",
+          "vocabulary": 2530,
+          "load_seconds": 41.58281729999726,
+          "generation_seconds": 17.30344860000332,
+          "float_peak": 0.9694163799285889,
+          "clipped_float_samples": 0,
+          "raw_out_of_range_model_samples": 0,
+          "pcm_headroom_gain": 0.9799710626614136,
+          "raw_model_waveform": "D:\\Github\\ToonMaker\\workspace\\voice_cache_v9\\original\\bf0713fa9867d955b6f7bd5e96368256038ea36445caefb4f07630e739806846\\original.model-float.wav",
+          "peak_cuda_allocated_mb": 3277.25341796875,
+          "reference_applied": true,
+          "generation_settings": {
+            "exaggeration": 0.5,
+            "cfg_weight": 0.5,
+            "temperature": 0.8,
+            "seed": 42
+          },
+          "provider": "chatterbox_bangla",
+          "model_id": "BosonLab/chatterbox-bangla",
+          "revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+          "fallback_reason": null
+        },
+        "usage_mode": "evaluation",
+        "official_sample_id": "005",
+        "commercial_permission_verified": false
+      },
+      "reports": {
+        "original_tts": {
+          "version": 1,
+          "sample_rate": 24000,
+          "frames": 77760,
+          "duration_seconds": 3.24,
+          "peak": 0.949951171875,
+          "clipped_samples": 0,
+          "rms": 0.11134385603081325,
+          "dc_offset": -0.00012533203564553595,
+          "longest_silence_seconds": 0.16,
+          "silence_fraction": 0.20987654320987653,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        },
+        "processed_voice": {
+          "version": 1,
+          "sample_rate": 24000,
+          "frames": 77760,
+          "duration_seconds": 3.24,
+          "peak": 0.90753173828125,
+          "clipped_samples": 0,
+          "rms": 0.10709997882735524,
+          "dc_offset": -0.00012087292141384548,
+          "longest_silence_seconds": 0.16,
+          "silence_fraction": 0.2222222222222222,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        },
+        "final_mix_excerpt": {
+          "version": 1,
+          "sample_rate": 48000,
+          "frames": 155520,
+          "duration_seconds": 3.24,
+          "peak": 0.81671142578125,
+          "clipped_samples": 0,
+          "rms": 0.09642674668319662,
+          "dc_offset": -2.4971549893602914e-05,
+          "longest_silence_seconds": 0.06,
+          "silence_fraction": 0.018518518518518517,
+          "errors": [],
+          "warnings": [],
+          "signal_valid": true,
+          "human_pronunciation_review": "required",
+          "asr_used": false
+        }
+      },
+      "original_equals_processed": false
+    }
+  ],
+  "human_listening_review": "pending",
+  "commercial_permission_verified": false
+}

@@ -1,0 +1,37 @@
+{
+  "model": "BosonLab/chatterbox-bangla",
+  "revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+  "toolkit_commit": "2a6aba38365782fce8258a6f51708ac19c8093ce",
+  "vocabulary_patch": 2530,
+  "loader_sha256": "3e8dd76bdc8f371efffbea94de6cd1b1fe9c4db704f15d0be18e9321519c8c3a",
+  "patches": [
+    "checkpoint vocabulary size",
+    "release temporary CPU checkpoint"
+  ],
+  "weights": {
+    "repository": "BosonLab/chatterbox-bangla",
+    "revision": "025a56f71bef7fddc9ee878c9e9557d2ca559499",
+    "files": [
+      {
+        "rfilename": "s3gen.safetensors",
+        "blobId": "b752a028b2a1c2843b76e0df9582d8d81d10669d",
+        "size": 1056484620,
+        "lfs": {
+          "sha256": "2b78103c654207393955e4900aac14a12de8ef25f4b09424f1ef91941f161d4e",
+          "size": 1056484620,
+          "pointerSize": 135
+        }
+      },
+      {
+        "rfilename": "t3_cfg.safetensors",
+        "blobId": "daf0666138a03ab3b756f9b8d84f37827f06f74e",
+        "size": 2144612344,
+        "lfs": {
+          "sha256": "d75e48a19feb0a7e17da339708ef1bc7dc4880ee162d6858d8e880fc332be60b",
+          "size": 2144612344,
+          "pointerSize": 135
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "comparisons": [
+    {
+      "segment": "segment_001",
+      "original_vs_processed": {
+        "compared_samples": 134400,
+        "common_rate": 24000,
+        "correlation": 0.048481551348403394,
+        "normalized_rmse": 1.3411075003552815,
+        "least_squares_gain": 0.04573935094013597,
+        "gain_adjusted_residual_rms": 0.09380974328952087
+      },
+      "processed_vs_final_mix": {
+        "compared_samples": 134400,
+        "common_rate": 24000,
+        "correlation": 0.9987315039078487,
+        "normalized_rmse": 0.1103305057434991,
+        "least_squares_gain": 0.8994278440247856,
+        "gain_adjusted_residual_rms": 0.004260770880214589
+      }
+    },
+    {
+      "segment": "segment_002",
+      "original_vs_processed": {
+        "compared_samples": 109440,
+        "common_rate": 24000,
+        "correlation": -0.02682589080880878,
+        "normalized_rmse": 1.3953722552209475,
+        "least_squares_gain": -0.025396115010919023,
+        "gain_adjusted_residual_rms": 0.11765343137238364
+      },
+      "processed_vs_final_mix": {
+        "compared_samples": 109440,
+        "common_rate": 24000,
+        "correlation": 0.9991123084538227,
+        "normalized_rmse": 0.10730345730421903,
+        "least_squares_gain": 0.8996316498772738,
+        "gain_adjusted_residual_rms": 0.004466591908001101
+      }
+    },
+    {
+      "segment": "segment_003",
+      "original_vs_processed": {
+        "compared_samples": 74880,
+        "common_rate": 24000,
+        "correlation": -0.10942310165155411,
+        "normalized_rmse": 1.458035362362101,
+        "least_squares_gain": -0.104746290937448,
+        "gain_adjusted_residual_rms": 0.1220757591028395
+      },
+      "processed_vs_final_mix": {
+        "compared_samples": 74880,
+        "common_rate": 24000,
+        "correlation": 0.999200185471898,
+        "normalized_rmse": 0.10654714060436933,
+        "least_squares_gain": 0.8997227470596827,
+        "gain_adjusted_residual_rms": 0.004422580989222255
+      }
+    },
+    {
+      "segment": "segment_010",
+      "original_vs_processed": {
+        "compared_samples": 114240,
+        "common_rate": 24000,
+        "correlation": -0.06508283541332634,
+        "normalized_rmse": 1.4063607561206914,
+        "least_squares_gain": -0.06026123239929859,
+        "gain_adjusted_residual_rms": 0.11087716218338792
+      },
+      "processed_vs_final_mix": {
+        "compared_samples": 114240,
+        "common_rate": 24000,
+        "correlation": 0.999032799661345,
+        "normalized_rmse": 0.10796752053891481,
+        "least_squares_gain": 0.8995681191882272,
+        "gain_adjusted_residual_rms": 0.004403237704299798
+      }
+    },
+    {
+      "segment": "segment_017",
+      "original_vs_processed": {
+        "compared_samples": 77760,
+        "common_rate": 24000,
+        "correlation": -0.10702008101634589,
+        "normalized_rmse": 1.4598294254089201,
+        "least_squares_gain": -0.10293965199592266,
+        "gain_adjusted_residual_rms": 0.10648490479195524
+      },
+      "processed_vs_final_mix": {
+        "compared_samples": 77760,
+        "common_rate": 24000,
+        "correlation": 0.9991666936155897,
+        "normalized_rmse": 0.10691961805042571,
+        "least_squares_gain": 0.8995970295508612,
+        "gain_adjusted_residual_rms": 0.003936631963875223
+      }
+    }
+  ],
+  "alignment": "Actual speech timeline start; FFmpeg resampled diagnostic copies to common 24 kHz. Source WAVs were not changed.",
+  "interpretation": "Pitch shifting intentionally changes waveforms. Final residual combines AAC, resampling, gain and intentional sound bed. These are not phoneme accuracy or intelligibility scores."
+}

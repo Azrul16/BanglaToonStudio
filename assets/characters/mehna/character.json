@@ -1,0 +1,21 @@
+{
+  "character_id": "mehna",
+  "name_bn": "মেহনা",
+  "name_en": "Mehna",
+  "gender": "female",
+  "role": "friend",
+  "style": "2d_cartoon",
+  "asset_version": "1.0.0",
+  "palette_reference": {
+    "skin": "#E8B49A",
+    "hair": "#1A1A1A",
+    "dress": "#D65A8C",
+    "dupatta": "#FFFFFF"
+  },
+  "reference_sheet": "character_sheet.png",
+  "portrait_reference": "portrait_reference.png",
+  "rig_status": "reference_only",
+  "animation_ready": false,
+  "notes": "These are flattened reference illustrations, not transparent skeletal sprite layers. Create and validate dedicated body/head/mouth/eye sprites before lip-sync or keyframe animation.",
+  "age_group": "adult"
+}

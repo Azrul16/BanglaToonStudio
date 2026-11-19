@@ -1,0 +1,187 @@
+{
+  "schema_version": 2,
+  "provider": "chatterbox_bangla",
+  "model_id": "BosonLab/chatterbox-bangla",
+  "base_voices": {
+    "male": {
+      "reference_id": "official_output_007_90c205cadddf1e37",
+      "official_sample_id": "007"
+    },
+    "female": {
+      "reference_id": "official_output_006_2829a832b5947ad8",
+      "official_sample_id": "006"
+    },
+    "child_male": {
+      "reference_id": "official_output_002_e55bcb5c76aae3d9",
+      "official_sample_id": "002"
+    },
+    "child_female": {
+      "reference_id": "official_output_005_8f8222b64d17a572",
+      "official_sample_id": "005"
+    }
+  },
+  "references": {
+    "official_output_007_90c205cadddf1e37": {
+      "id": "official_output_007_90c205cadddf1e37",
+      "label": "Official Demo 007 · generated output · evaluation only",
+      "file": "managed/official_output_007_90c205cadddf1e37.wav",
+      "approved": false,
+      "authorization": null,
+      "evaluation_only": true,
+      "commercial_permission_verified": false,
+      "source_kind": "official_generated_demo_output",
+      "official_sample_id": "007",
+      "source_url": "https://huggingface.co/BosonLab/chatterbox-bangla/resolve/025a56f71bef7fddc9ee878c9e9557d2ca559499/audios/output/007.wav",
+      "original_reference_url": "https://huggingface.co/BosonLab/chatterbox-bangla/resolve/025a56f71bef7fddc9ee878c9e9557d2ca559499/audios/refs/007.webm",
+      "conditioning_test_status": "execution_passed_listening_review_pending",
+      "duration_seconds": 13.48,
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak": 32768,
+      "sha256": "90c205cadddf1e375b3e3fae42ec0a54989d14538651451cecfc951528822591",
+      "pcm_sha256": "0029168c7a8c3d8e7513a2ecec4fda6679ac909e6ebdd1ce98fde1888cd3768d"
+    },
+    "official_output_006_2829a832b5947ad8": {
+      "id": "official_output_006_2829a832b5947ad8",
+      "label": "Official Demo 006 · generated output · evaluation only",
+      "file": "managed/official_output_006_2829a832b5947ad8.wav",
+      "approved": false,
+      "authorization": null,
+      "evaluation_only": true,
+      "commercial_permission_verified": false,
+      "source_kind": "official_generated_demo_output",
+      "official_sample_id": "006",
+      "source_url": "https://huggingface.co/BosonLab/chatterbox-bangla/resolve/025a56f71bef7fddc9ee878c9e9557d2ca559499/audios/output/006.wav",
+      "original_reference_url": "https://huggingface.co/BosonLab/chatterbox-bangla/resolve/025a56f71bef7fddc9ee878c9e9557d2ca559499/audios/refs/006.wav",
+      "conditioning_test_status": "execution_passed_listening_review_pending",
+      "duration_seconds": 10.72,
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak": 31839,
+      "sha256": "2829a832b5947ad8145ad16c4c594790e5fbcae5a7116b0a770fffc8b4f62920",
+      "pcm_sha256": "fba0eaf0d3a0063e660a5ceee38433f6b03391e6f2ec81ced1eda06d539b3251"
+    },
+    "official_output_002_e55bcb5c76aae3d9": {
+      "id": "official_output_002_e55bcb5c76aae3d9",
+      "label": "Official Demo 002 · generated output · evaluation only",
+      "file": "managed/official_output_002_e55bcb5c76aae3d9.wav",
+      "approved": false,
+      "authorization": null,
+      "evaluation_only": true,
+      "commercial_permission_verified": false,
+      "source_kind": "official_generated_demo_output",
+      "official_sample_id": "002",
+      "source_url": "https://huggingface.co/BosonLab/chatterbox-bangla/resolve/025a56f71bef7fddc9ee878c9e9557d2ca559499/audios/output/002.wav",
+      "original_reference_url": "https://huggingface.co/BosonLab/chatterbox-bangla/resolve/025a56f71bef7fddc9ee878c9e9557d2ca559499/audios/refs/002.mp3",
+      "conditioning_test_status": "execution_passed_listening_review_pending",
+      "duration_seconds": 11.2,
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak": 32768,
+      "sha256": "e55bcb5c76aae3d974530d365604788edf3c3829f7ce7b63de91c0d46687d266",
+      "pcm_sha256": "2a0f4796cd2d79cd84f6ba88cf6095790ede56c729c4b00db24f3360ded24188"
+    },
+    "official_output_005_8f8222b64d17a572": {
+      "id": "official_output_005_8f8222b64d17a572",
+      "label": "Official Demo 005 · generated output · evaluation only",
+      "file": "managed/official_output_005_8f8222b64d17a572.wav",
+      "approved": false,
+      "authorization": null,
+      "evaluation_only": true,
+      "commercial_permission_verified": false,
+      "source_kind": "official_generated_demo_output",
+      "official_sample_id": "005",
+      "source_url": "https://huggingface.co/BosonLab/chatterbox-bangla/resolve/025a56f71bef7fddc9ee878c9e9557d2ca559499/audios/output/005.wav",
+      "original_reference_url": "https://huggingface.co/BosonLab/chatterbox-bangla/resolve/025a56f71bef7fddc9ee878c9e9557d2ca559499/audios/refs/005.wav",
+      "conditioning_test_status": "execution_passed_listening_review_pending",
+      "duration_seconds": 11.39,
+      "sample_rate": 24000,
+      "channels": 1,
+      "peak": 31364,
+      "sha256": "8f8222b64d17a572ea2d0c575cfaea3cf6679b12f4d31040d3641354d3711bcc",
+      "pcm_sha256": "2279add8cfc82c16807b2df1e0efc5fb6c76ad1ff31b73327b8fb13491e272a1"
+    }
+  },
+  "character_presets": {
+    "rahat": {
+      "category": "male",
+      "pitch_semitones": 0.0,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "arif": {
+      "category": "male",
+      "pitch_semitones": 0.6,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "sami": {
+      "category": "male",
+      "pitch_semitones": -0.7,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "mehna": {
+      "category": "female",
+      "pitch_semitones": 0.0,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "tithi": {
+      "category": "female",
+      "pitch_semitones": 0.6,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "nabil": {
+      "category": "child_male",
+      "pitch_semitones": 0.7,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "rayan": {
+      "category": "child_male",
+      "pitch_semitones": -0.5,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "fahim": {
+      "category": "child_male",
+      "pitch_semitones": 1.1,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "anika": {
+      "category": "child_female",
+      "pitch_semitones": 0.4,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "maliha": {
+      "category": "child_female",
+      "pitch_semitones": -0.5,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "narrator": {
+      "category": "male",
+      "pitch_semitones": 0.0,
+      "formant": "preserved",
+      "experimental": true
+    },
+    "unknown_voice": {
+      "category": "male",
+      "pitch_semitones": 0.0,
+      "formant": "preserved",
+      "experimental": true
+    }
+  },
+  "migration_conflicts": {},
+  "mode": "evaluation",
+  "official_evaluation_selections": {
+    "male": "007",
+    "female": "006",
+    "child_male": "002",
+    "child_female": "005"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "village_market_dusk",
+  "name_bn": "সন্ধ্যার বাজার",
+  "name_en": "Village Market at Dusk",
+  "time_of_day": "dusk",
+  "keywords_bn": [
+    "সন্ধ্যার বাজার",
+    "হাট",
+    "দোকান",
+    "সন্ধ্যা"
+  ],
+  "width": 1672,
+  "height": 941,
+  "shorts_resolution": [
+    720,
+    1280
+  ],
+  "background_file": "background.png",
+  "shorts_file": "background_720x1280.png",
+  "characters_included": false,
+  "type": "static_2d_background",
+  "variant_source": "village_market_day",
+  "layers": "flattened; not a parallax-ready multilayer scene"
+}

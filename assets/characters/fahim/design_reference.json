@@ -1,0 +1,45 @@
+{
+  "character_id": "child_fahim",
+  "name_bn": "ফাহিম",
+  "name_en": "Fahim",
+  "age": 9,
+  "gender": "male",
+  "role": "Village friend",
+  "appearance_lock": "Maroon panjabi, cream pajama, red checked gamcha, curly dark hair",
+  "signature_prop": "slingshot",
+  "personality": "funny and playful",
+  "art_style": "2D cartoon vector-style",
+  "sheet_file": "character_sheet.png",
+  "asset_type": "reference_sheet_not_layered_sprite",
+  "view_types": [
+    "front",
+    "side",
+    "back"
+  ],
+  "expression_references": [
+    "neutral",
+    "happy",
+    "worried",
+    "angry",
+    "surprised"
+  ],
+  "mouth_reference_labels": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "X"
+  ],
+  "action_references": [
+    "idle",
+    "talk",
+    "walk",
+    "wave"
+  ],
+  "version": "1.0.0",
+  "note": "Artwork sheet is for referencing, not transparent production sprite layers. Separate and redraw layers before lip sync/rig animation."
+}

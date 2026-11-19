@@ -1,0 +1,132 @@
+{
+  "character_id": "fahim",
+  "name_bn": "ফাহিম",
+  "name_en": "Fahim",
+  "age": 9,
+  "gender": "male",
+  "role": "Village friend",
+  "appearance_lock": "Maroon panjabi, cream pajama, red checked gamcha, curly dark hair",
+  "signature_prop": "slingshot",
+  "personality": "funny and playful",
+  "art_style": "2D cartoon vector-style",
+  "sheet_file": "character_sheet.png",
+  "asset_type": "layered_png_rig",
+  "view_types": [
+    "front",
+    "side",
+    "back"
+  ],
+  "expression_references": [
+    "neutral",
+    "happy",
+    "worried",
+    "angry",
+    "surprised"
+  ],
+  "mouth_reference_labels": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "X"
+  ],
+  "action_references": [
+    "idle",
+    "talk",
+    "walk",
+    "wave"
+  ],
+  "version": "1.1.0",
+  "note": "Original simplified layered recreation of the supplied design. Flattened source artwork and original metadata are preserved. Never generated at runtime.",
+  "legacy_character_id": "child_fahim",
+  "asset_version": "1.1.0",
+  "rig_version": "1.1.0",
+  "animation_ready": true,
+  "rig_status": "ready",
+  "voice_id": "default_bn",
+  "canvas": [
+    384,
+    640
+  ],
+  "default_animation": "idle",
+  "render_scale": 0.94,
+  "anchors": {
+    "head": [
+      192,
+      234
+    ],
+    "eyes": [
+      192,
+      158
+    ],
+    "mouth": [
+      192,
+      205
+    ],
+    "feet": [
+      192,
+      612
+    ],
+    "left_arm": [
+      122,
+      278
+    ],
+    "right_arm": [
+      262,
+      278
+    ],
+    "left_leg": [
+      155,
+      423
+    ],
+    "right_leg": [
+      228,
+      423
+    ]
+  },
+  "palette_reference": {
+    "skin": "#E8B18A",
+    "hair": "#282725",
+    "shirt": "#881E3F",
+    "pants": "#F5E8D3",
+    "shoes": "#2F2F2F"
+  },
+  "reference_sha256": "40842752e40269a7bcd2fc376498852f48f48fba772d77055b58d54e96ef72f8",
+  "reference_file": "character_sheet.png",
+  "source_generator": "scripts/build_child_rigs.py",
+  "file_hashes": {
+    "legs/left.png": "ea1d40c3379bd96aaccc563eb275a16106c0c75aad094105364ef904736fca8c",
+    "legs/right.png": "e540f649c8d3edf56bae73597751f56d30f8117ffc4459e7cd06c946c9d14abb",
+    "arms/left.png": "c62118cf970078c922db67b7ce99a7e427ddf0d9a163d2f354a79e4c598432ef",
+    "arms/right.png": "a363f178d507fc739b6505b6ff5d994caaf8621c669398692bd06d932af68893",
+    "body.png": "288ed5b9039f5647144207db8acc563bed89a12ee707ea319784e2c6587f1d75",
+    "hair_back.png": "85fd8cbc7746ba2e22412b240177145d7b7d8c0c74c5bb45f2df9507ca1825f3",
+    "head.png": "e4f69216eb5e5c60ab6a352614646dbdad49c95fe6b4caccde5beba7ed7c0e73",
+    "hair.png": "ffe853de84f1f5277024d44f1e4bbaea066d48de992d1e82f1e9bb9af0d75727",
+    "eyes/open.png": "e5ed0eeb01f67a602af0220536509be31c4c6fc1658dd756604290dcf17811d5",
+    "eyes/closed.png": "702d8a561969750650fd5eb9449ccc981740fb8bd53a3849402ba78eb25146b2",
+    "mouths/A.png": "d5ea6804bbfc6b92dbd717c3c2eb8c116b50285f6d054a310f7789f54f669e5e",
+    "mouths/B.png": "c26212dfd2f04e6b5106832a3e1b19ee28196b39cfe05924d0adfaf5a035da72",
+    "mouths/C.png": "747d8b2d0b4e9b9d74d4d586b68dd3657d22ba88891e95be470bd4650ef4f582",
+    "mouths/D.png": "0847c8e8496798872c2eadd60c359319b23f9eb75a1ef94f80fb099171389691",
+    "mouths/E.png": "29ef04ecdbb50c873ee0ec1f6b8e92073c29da2b7092af48be958fe67d7c4469",
+    "mouths/F.png": "d2a4898bbb1a4d79a85975c12eb1c4fdec6a03619858a88c7f9b88866f9844ec",
+    "mouths/G.png": "0c4a3d34b4a0429c8aa321b41eeb981d46f70d09091869617ab0504b703cd44f",
+    "mouths/H.png": "b14c88fbb382964dc6b97645c3b3942f9f59882de3d4d36ae27369e5d27086be",
+    "mouths/X.png": "2c092eb67413e07ed53325fed07c375f4087aa279ca5ff677b906a6250ca10c4",
+    "animations/idle.json": "56d3c223e2fca5392b0a4226c4e09de806378bb62bf0f2dcc18b99cd783d608f",
+    "animations/blink.json": "9a0fe745fe37f3cd2e741a2830933e49c5a242fb26e1081123e9cb24537bbd07",
+    "animations/talk.json": "9f542dd2a368d1a55589b92e1fb1b676597c9e00dfbd1f03e76dabd9b4cf4e4d",
+    "animations/walk.json": "af8ff0976877273932d65144fa3c002bf109f095cf0cf5b6bcf2285404250b35",
+    "animations/look_left.json": "69f017abda2c66346ab2d4935bccfc887e65980967a232a8b6dbe1686e8dc455",
+    "animations/look_right.json": "9958a055958578b101978b16607f00502caa9b239d5ac2e0bd5d0b65e27dc022",
+    "animations/turn_head.json": "00c8e2027fce48270af2a9c35fcdaade0dd5e517f0c99a2c3b2f43261b2417ba",
+    "animations/surprised.json": "9e8a7e6f8c70dce8d86507848052aca2a1a9453c8dbcc31a203f1ed8b9adb98f",
+    "animations/afraid.json": "5e9ae1b6b2ee181acedaafbf41d7d5a5d31235202ffae8fae00d678648ce7e97"
+  },
+  "age_group": "child"
+}

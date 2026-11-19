@@ -1,0 +1,513 @@
+{
+  "character_id": "rayan",
+  "version": "1.1.0",
+  "source_identity": "121d07bfa07d2638ca0dbcba3285a8bebb2a71bd548120c175da11792385905b",
+  "canvas": [
+    384,
+    640
+  ],
+  "feet": [
+    192,
+    612
+  ],
+  "bones": {
+    "Hips": {
+      "position": [
+        192.0,
+        423.0
+      ],
+      "parent": null
+    },
+    "Torso": {
+      "position": [
+        192.0,
+        330.0
+      ],
+      "parent": "Hips"
+    },
+    "Neck": {
+      "position": [
+        192.0,
+        250.0
+      ],
+      "parent": "Torso"
+    },
+    "Head": {
+      "position": [
+        192,
+        234
+      ],
+      "parent": "Neck"
+    },
+    "LeftUpperArm": {
+      "position": [
+        122,
+        278
+      ],
+      "parent": "Torso"
+    },
+    "LeftForearm": {
+      "position": [
+        105.0,
+        369.0
+      ],
+      "parent": "LeftUpperArm"
+    },
+    "LeftHand": {
+      "position": [
+        99.9,
+        433.0
+      ],
+      "parent": "LeftForearm"
+    },
+    "LeftThigh": {
+      "position": [
+        155,
+        423
+      ],
+      "parent": "Hips"
+    },
+    "LeftLeg": {
+      "position": [
+        155,
+        510
+      ],
+      "parent": "LeftThigh"
+    },
+    "LeftFoot": {
+      "position": [
+        155,
+        578
+      ],
+      "parent": "LeftLeg"
+    },
+    "RightUpperArm": {
+      "position": [
+        262,
+        278
+      ],
+      "parent": "Torso"
+    },
+    "RightForearm": {
+      "position": [
+        279.0,
+        369.0
+      ],
+      "parent": "RightUpperArm"
+    },
+    "RightHand": {
+      "position": [
+        284.1,
+        433.0
+      ],
+      "parent": "RightForearm"
+    },
+    "RightThigh": {
+      "position": [
+        228,
+        423
+      ],
+      "parent": "Hips"
+    },
+    "RightLeg": {
+      "position": [
+        228,
+        510
+      ],
+      "parent": "RightThigh"
+    },
+    "RightFoot": {
+      "position": [
+        228,
+        578
+      ],
+      "parent": "RightLeg"
+    }
+  },
+  "parts": {
+    "torso": {
+      "file": "torso.png",
+      "bone": "Torso",
+      "origin": [
+        113,
+        235
+      ],
+      "size": [
+        153,
+        217
+      ]
+    },
+    "hair_back": {
+      "file": "hair_back.png",
+      "bone": "Head",
+      "origin": [
+        117,
+        72
+      ],
+      "size": [
+        155,
+        136
+      ]
+    },
+    "head": {
+      "file": "head.png",
+      "bone": "Head",
+      "origin": [
+        110,
+        86
+      ],
+      "size": [
+        164,
+        185
+      ]
+    },
+    "hair": {
+      "file": "hair.png",
+      "bone": "Head",
+      "origin": [
+        114,
+        56
+      ],
+      "size": [
+        159,
+        101
+      ]
+    },
+    "brows": {
+      "file": "brows.png",
+      "bone": "Head",
+      "origin": [
+        144,
+        127
+      ],
+      "size": [
+        97,
+        17
+      ]
+    },
+    "eyes_open": {
+      "file": "eyes_open.png",
+      "bone": "Head",
+      "origin": [
+        121,
+        144
+      ],
+      "size": [
+        141,
+        40
+      ]
+    },
+    "eyes_closed": {
+      "file": "eyes_closed.png",
+      "bone": "Head",
+      "origin": [
+        121,
+        144
+      ],
+      "size": [
+        141,
+        40
+      ]
+    },
+    "mouth_A": {
+      "file": "mouth_A.png",
+      "bone": "Head",
+      "origin": [
+        176,
+        201
+      ],
+      "size": [
+        32,
+        8
+      ]
+    },
+    "mouth_B": {
+      "file": "mouth_B.png",
+      "bone": "Head",
+      "origin": [
+        171,
+        199
+      ],
+      "size": [
+        42,
+        15
+      ]
+    },
+    "mouth_C": {
+      "file": "mouth_C.png",
+      "bone": "Head",
+      "origin": [
+        170,
+        196
+      ],
+      "size": [
+        44,
+        25
+      ]
+    },
+    "mouth_D": {
+      "file": "mouth_D.png",
+      "bone": "Head",
+      "origin": [
+        169,
+        192
+      ],
+      "size": [
+        46,
+        37
+      ]
+    },
+    "mouth_E": {
+      "file": "mouth_E.png",
+      "bone": "Head",
+      "origin": [
+        178,
+        194
+      ],
+      "size": [
+        28,
+        31
+      ]
+    },
+    "mouth_F": {
+      "file": "mouth_F.png",
+      "bone": "Head",
+      "origin": [
+        180,
+        197
+      ],
+      "size": [
+        24,
+        22
+      ]
+    },
+    "mouth_G": {
+      "file": "mouth_G.png",
+      "bone": "Head",
+      "origin": [
+        171,
+        198
+      ],
+      "size": [
+        42,
+        18
+      ]
+    },
+    "mouth_H": {
+      "file": "mouth_H.png",
+      "bone": "Head",
+      "origin": [
+        174,
+        196
+      ],
+      "size": [
+        36,
+        25
+      ]
+    },
+    "mouth_X": {
+      "file": "mouth_X.png",
+      "bone": "Head",
+      "origin": [
+        176,
+        200
+      ],
+      "size": [
+        32,
+        11
+      ]
+    },
+    "left_upper_arm": {
+      "file": "left_upper_arm.png",
+      "bone": "LeftUpperArm",
+      "origin": [
+        78,
+        272
+      ],
+      "size": [
+        69,
+        108
+      ]
+    },
+    "left_forearm": {
+      "file": "left_forearm.png",
+      "bone": "LeftForearm",
+      "origin": [
+        71,
+        355
+      ],
+      "size": [
+        62,
+        83
+      ]
+    },
+    "left_hand": {
+      "file": "left_hand.png",
+      "bone": "LeftHand",
+      "origin": [
+        81,
+        423
+      ],
+      "size": [
+        40,
+        36
+      ]
+    },
+    "left_thigh": {
+      "file": "left_thigh.png",
+      "bone": "LeftThigh",
+      "origin": [
+        129,
+        418
+      ],
+      "size": [
+        52,
+        104
+      ]
+    },
+    "left_leg": {
+      "file": "left_leg.png",
+      "bone": "LeftLeg",
+      "origin": [
+        123,
+        498
+      ],
+      "size": [
+        69,
+        90
+      ]
+    },
+    "left_foot": {
+      "file": "left_foot.png",
+      "bone": "LeftFoot",
+      "origin": [
+        123,
+        575
+      ],
+      "size": [
+        69,
+        39
+      ]
+    },
+    "right_upper_arm": {
+      "file": "right_upper_arm.png",
+      "bone": "RightUpperArm",
+      "origin": [
+        237,
+        272
+      ],
+      "size": [
+        70,
+        108
+      ]
+    },
+    "right_forearm": {
+      "file": "right_forearm.png",
+      "bone": "RightForearm",
+      "origin": [
+        251,
+        355
+      ],
+      "size": [
+        63,
+        83
+      ]
+    },
+    "right_hand": {
+      "file": "right_hand.png",
+      "bone": "RightHand",
+      "origin": [
+        263,
+        423
+      ],
+      "size": [
+        41,
+        36
+      ]
+    },
+    "right_thigh": {
+      "file": "right_thigh.png",
+      "bone": "RightThigh",
+      "origin": [
+        202,
+        418
+      ],
+      "size": [
+        52,
+        104
+      ]
+    },
+    "right_leg": {
+      "file": "right_leg.png",
+      "bone": "RightLeg",
+      "origin": [
+        196,
+        498
+      ],
+      "size": [
+        69,
+        90
+      ]
+    },
+    "right_foot": {
+      "file": "right_foot.png",
+      "bone": "RightFoot",
+      "origin": [
+        196,
+        575
+      ],
+      "size": [
+        69,
+        39
+      ]
+    },
+    "pupils": {
+      "file": "pupils.png",
+      "bone": "Head",
+      "origin": [
+        157,
+        147
+      ],
+      "size": [
+        72,
+        24
+      ]
+    }
+  },
+  "quality_status": "front_cutout_prototype",
+  "limitations": [
+    "True profile/back turnaround art is not available as separated rig layers.",
+    "Hand silhouettes are the supplied neutral hands; pointing uses arm direction."
+  ],
+  "hashes": {
+    "brows.png": "b4d6f94013ca93643b3ee02b572eb60a6cba3f2a2e0ffca6aa336a54570d5d6f",
+    "eyes_closed.png": "095a4fe95a0d03bc281f63f521d8dc9e5183ffe25e29199dabdfb25ee3b3183a",
+    "eyes_open.png": "68ead203959f17ea18486ec2eb69d67d73aa965c0e54666c40001eef87a0448e",
+    "hair.png": "c646832ed5e9fada8d3402b3cec154c16f114384983ba94e8cc98cca925098b7",
+    "hair_back.png": "47f1924aa0083ee6338aa2367afff040ce418abcbdc8a53fd7dd7f54dfb5d4b7",
+    "head.png": "e2c064b2e13cfd7392ee3602cbe8f09f38435cb421747eacc839b79e2366a20f",
+    "left_foot.png": "7e2a26d433b1e27a3a175f8657867d41e18a6d3f0cdd1dd9266b0a27453c22b7",
+    "left_forearm.png": "03e6db00defcb88cccffde2cce0e736fbf2b5d6ec6f36f5f0a8a38a172bbe8d7",
+    "left_hand.png": "6d27f7880bd3da70c5c5377f0872d25c735ee9c4d6d5d82d5e0f02f948fbb882",
+    "left_leg.png": "5af89a6a746cc0581f06d1804a77146f93cbcca333963435bfa8d27d0282649c",
+    "left_thigh.png": "f128c667ee70037ca58d407f49fb91c33e252d2e30ae7ed8c091b6231c9ee978",
+    "left_upper_arm.png": "77e803b4a048d5e9ce091d9df1c49a84d56df164af35161a45811f9d330c3bf3",
+    "mouth_A.png": "8131b28dcebf11b1bda55cf57d0d09e92ab6322cfd9cf121329dfb83b92ce516",
+    "mouth_B.png": "6529647a3b897f262cfa5862425be8122ea64b72f4f56af2813d512b883e0b63",
+    "mouth_C.png": "51e730b9a4ea18f278599211efecec33360cd2bfa29655001da55b35a918c4d5",
+    "mouth_D.png": "69a983f2bb99fee7dbe309ba28a1c6bedd0130a1d84b9d49d5dd6235c73d0371",
+    "mouth_E.png": "1a9ca0956ccf722b482295224f4527504c46fabe26099d28bc7fa65dcfc7fa42",
+    "mouth_F.png": "3163452c67ec5e8d8c012c7237c18b80202398a6d6ed90fedc21efab915750c2",
+    "mouth_G.png": "4ee647fc825ac2a7e70cffff460d9cc94c4216a4ab6158186b465a4445121967",
+    "mouth_H.png": "13f2e4f1457a1dba5642025621cce52efce63d813c611dfe388564c466bd19f0",
+    "mouth_X.png": "7f9fa2e87a156f3b6704f0d218d4f084273ba34c1bb7b1efd1b421d72e5c70e9",
+    "pupils.png": "c1fdf80a7cdf073334d0a1adf6257393c7d81781529668b16ada29c0ba9b0023",
+    "right_foot.png": "7e2a26d433b1e27a3a175f8657867d41e18a6d3f0cdd1dd9266b0a27453c22b7",
+    "right_forearm.png": "70048fdfc4d9d79eb403c151ef1381c1b3f41e56e98e953d7319bec70def2efb",
+    "right_hand.png": "95dd865d5188ede0179fea378975768cc30e31b665d37cfd78c2941df9bddb95",
+    "right_leg.png": "5af89a6a746cc0581f06d1804a77146f93cbcca333963435bfa8d27d0282649c",
+    "right_thigh.png": "f128c667ee70037ca58d407f49fb91c33e252d2e30ae7ed8c091b6231c9ee978",
+    "right_upper_arm.png": "f8bef7e8e627a042db4fd0938e66663932c8a77a61e229179a8c71bbd113720d",
+    "torso.png": "d561fe6d7e5128eebaaba19603a071ed36e421a5f423e5d7730847f1b26e55c6"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "info": {
+    "duration_seconds": 18.7333,
+    "width": 720,
+    "height": 1280,
+    "fps": 30,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "pixel_format": "yuv420p",
+    "validated": true,
+    "warnings": [
+      "Front-view articulated prototypes: review artwork/style and motion before production use.",
+      "Actual screenplay duration is 18.7s; selected target is 30–40s. Speech was not stretched or truncated."
+    ],
+    "render_metrics": {
+      "audio_preparation_seconds": 0.0291,
+      "sprite_render_seconds": 16.4623,
+      "pipe_wait_seconds": 0.0,
+      "stream_wall_seconds": 19.3184,
+      "encoder_drain_seconds": 2.8561,
+      "encoder": "h264_nvenc",
+      "scenes_reused": 0,
+      "scenes_rendered": 2,
+      "scene_count": 2,
+      "concatenation_seconds": 0.6939,
+      "validation_seconds": 0.484,
+      "encoding_overlap_note": "Encoding runs concurrently with CPU compositing; stream wall time and pipe wait are measured, not an isolated GPU encode time."
+    },
+    "planned_duration_seconds": 18.733333333333334
+  },
+  "audio_hashes": {
+    "segment_001": "079c8b1174041d8700c2b46d159703345c57d1fab24861e988a22d2896576a5e",
+    "segment_002": "92506d8457595fd73f2367045d710e402f1a73eb54969a55e4edb663bff68901",
+    "segment_003": "a99c89a127ef84f5d66f33ce7584426d8326e1dc5b327a33500d43c63c78a9d2"
+  },
+  "human_approved": true,
+  "commercial_permission_verified": false
+}

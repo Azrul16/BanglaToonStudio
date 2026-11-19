@@ -1,0 +1,24 @@
+{
+  "id": "village_home_evening",
+  "name_bn": "গ্রামের বাড়ি",
+  "name_en": "Village Home at Evening",
+  "time_of_day": "evening",
+  "keywords_bn": [
+    "বাড়ি",
+    "বারান্দা",
+    "ঘর",
+    "হাতপাম্প"
+  ],
+  "width": 1086,
+  "height": 1448,
+  "shorts_resolution": [
+    720,
+    1280
+  ],
+  "background_file": "background.png",
+  "shorts_file": "background_720x1280.png",
+  "characters_included": false,
+  "type": "static_2d_background",
+  "variant_source": null,
+  "layers": "flattened; not a parallax-ready multilayer scene"
+}

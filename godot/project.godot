@@ -1,0 +1,23 @@
+config_version=5
+
+[application]
+config/name="Bangla Toon Studio Animation"
+run/main_scene="res://scenes/movie.tscn"
+
+[display]
+window/size/viewport_width=1080
+window/size/viewport_height=1920
+window/stretch/mode="viewport"
+window/size/window_width_override=360
+window/size/window_height_override=640
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/default_filters/use_nearest_mipmap_filter=false
+environment/defaults/default_clear_color=Color(0.04,0.06,0.08,1)
+
+[editor]
+movie_writer/fps=30
+movie_writer/video_quality=0.92
+movie_writer/mix_rate=48000
